@@ -1,0 +1,33 @@
+---
+court: "Arapahoe County District Court"
+decided: "1882-08"
+citations: ["3 Colo. L. Rep. 62"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE ex rel. v. WEBER et al."]
+source_url: "https://static.case.law/colo-l-rep/3/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12122864
+---
+
+# People v. Weber
+
+## Majority (Elliott, J.,)
+
+Elliott, J.,
+orally.
+This is an action against the defendant and his sureties on his official bond as one of the constables of Arapahoe county. Certain questions of practice of considerable importance under the Code are presented for the consideration of the Court. They arise—
+First—Upon the defendant’s motion for judgment upon the pleadings.
+Second—Upon the plaintiff’s demurrer to a part of the defendant’s answer.
+It is sufficient to say upon the defendant’s motion, that it cannot regularly be granted without striking the plaintiff’s demurrer from the files, and that is not asked for in the motion. Nor does the motion specify the particular grounds upon which the defendants rely.
+On the argument, it was disclosed that the defendants relied upon the fact that the demurrer was not interposfed in time to the new matter contained in the answer; and the defendant then moved ore tenus to strike the answer from the files. The answer was filed April 20th, the demurrer May 3d following, the motion for judgment May 15th thereafter, all during the same term of Court.
+The motion for judgment for want of reply to new matter in defendant’s answer should have been made after default and before demurrer filed, inasmuch as the same occurred during term time, else, according to well established practice, the defendant would be considered as having given parol license to the plaintiff to interpose his demurrer. The motion to strike the demurrer from the files should have been made upon twenty-four hours’ notice to the plaintiff before argument.
+For these reasons, the motion to strike from the files will not be considered, and the motion for judgment upon the plead ings will be denied.
+The questions presented by the plaintiff’s demurrer are not so easily disposed of. The Code knows no such thing as a demurrer to a part of the answer. Sec. 61 provides that the plaintiff may demur to the answer for insufficiency, and also that he may demur to one or more defenses set up in the answer; but it says nothing about demurring to a part of the answer. It does provide, however, that so much of any pleading as may be immaterial, redundant or insufficient may be stricken out on motion. The plaintiff’s fault, however, in this respect was doubtless occasioned by the fault of the defendant in the first instance. That part of the answer demurred to should have been made a separate defense. Sec. 60 provides that the defendant may set forth by answer as many defenses as he may have. It further provides that they shall each be separately stated, etc., and, by a rule of this Court, it is provided that answers in civil actions containing more than one defense shall distinctly indicate the commencement of the several defenses respectively by the words, “ for. a first defense,” “for a second defense,” and so forth. And it is further provided in said rules, that if the pleading be not in substantial conformity with these requirements, it shall be demurrable for uncertainty or ambiguity; but a demurrer taken under this rule should be to the whole answer, and not to a part of it; and then the defendant will be compelled to amend his answer in compliance with the rule, or the demurrer will be sustained.
+I feel constrained to repeat what I have often said at nisi prius, in ruling upon matters upon this kind, that the mode and manner, as well as the principles, of pleading under the Code and under our former practice, are not essentially different. The difference is in name rather than in substance. Under our former practice, the first pleading was called the declaration, and it might contain several counts. Under the Code, the first pleading is the complaint, and it may be divided into different causes of action. Under the former practice, if a declaration mixed up several causes of action in one count, it was demurrable for duplicity. So, under the Code, if the several causes of action in the complaint are not separately stated and numbered, such complaint is demurrable under the rule and in harmony with the statute.
+Again, under the former practice, if the defendant had several defenses, he must state them in separate pleas; and if he did not so do, but mixed his defenses in one plea, his pleading was demurrable for duplicity. So, under the Code, if a defendant has several defenses, they must be separately stated and numbered, or his answer is demurrable under the rule of this Court, in furtherance of the statute. Perhaps the only exception to this requirement is, that it is a common practice, which may well be tolerated, for a party to state all of his specific denials in his answer under a single defense. But in the statement of new matter which is relied upon as a separate and distinct defense, such new matter must be separately and distinctly stated and numbered.
+That part of the answer demurred to contains new matter, which, if separately stated and numbered, and well pleaded, might be a good defense to this action; but as it is pleaded, it will not stand the test of a demurrer; it would hardly be sufficient, even if it had been separately stated and numbered, for the reason, that it does not disclose that the goods levied upon as the property of Hitzfield are the same identical goods which the defendant, Weber, is charged with tortiously taking from the relators in this action; nor does it disclose that the act of the defendant, Weber, in levying upon these goods, as stated in said part of said answer, is the same identical act which is complained of against him in the complaint. As to a matter going to the very gist of the action or defense, good pleading requires that there should be substantial certainty, and nothing left to mere conjecture or inference; and this is as true of Code pleading as it is in common law pleading.
+Herr & Clement, for plaintiff.
+Samuel Slesinger, for defendant.
+Under the circumstances, the Court will have to overrule the demurrer, unless the plaintiff desires to withdraw the same for the purpose of interposing it to the whole answer, in which case the defendant may, if he desires, also withdraw his answer, and plead over again, separating his defenses, and amending, if he can so do, in accordance with the views herein expressed.
