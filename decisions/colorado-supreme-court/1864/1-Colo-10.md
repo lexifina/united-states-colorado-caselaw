@@ -1,0 +1,23 @@
+---
+court: "Colorado Supreme Court"
+decided: "1864-01"
+citations: ["1 Colo. 10"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Townsend et al. v. Wild et al."]
+source_url: "https://static.case.law/colo/1/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5254415
+---
+
+# Townsend v. Wild
+
+## Majority (Bbadeobd, J.)
+
+Bbadeobd, J.
+This was a petition for a mechanics’ lien, filed in the district court of Arapahoe county on the 7th day of November, A.D. 1861, by J. E. Wild et al., plaintiffs, against the defendants, asking for judgment for the sum of $262.23, in payment for lumber and material alleged to have been furnished to said Poster, and used in buildings and inclosures upon lots Nos. 5 and 6, in block Ño. 12, in East Denver, in said county, and praying that said demand may be made a lien upon said lots, and that said lots be sold to satisfy the same; the petition further alleges that, at the time of furnishing the material, the said Foster was the owner and occupant of said lots, and that, on the 2d day of September, A.D. 1861, the said Eliza Townsend, wife of the said Copeland Townsend, became the purchaser of said lots, and that said Foster then delivered possession of said premises to the appellants, who have retained possession hitherto. At the August term of the district court, A.D. 1862, this cause came on to be heard, and the court ordered a decree entered in accordance with the prayer of the plaintiffs’ petition, rendering judgment against all the defendants for the sum of $262.23 damages, and for costs. From this judgment of the district court the defendants, Copeland Townsend and Eliza Townsend, appealed to this court. The appellants appear in this court upon assignment of ten errors; we will consider only the sixth assignment of error, not deeming it important or necessary to pass upon the other errors assigned. The sixth error assigned is as follows : “ There was no law for the proceeding, the materials having been furnished, if any were furnished, before the passage of the law respecting mechanics’ liens.” The plaintiffs allege in their petition that they furnished the materials used in erecting buildings and inclosures on lots described in their petition to Foster (he then being the owner and occupant of said lots), within one year preceding the filing of said petition, which appears to have been on the 7th day of November, A.D. 1861; they further allege in said petition, that on the 2d day of September, A.D. 1861, Foster sold the premises to Mrs. Eliza Townsend, and then and there delivered possession of the same to the appellants, who retained possession at the time of the commencement of this suit, viz., on the 7th day of November, A.D. 1861.
+The organic act of Colorado territory was approved on the 28th day of February, A. D. 1861. On the 4th day of November, A. D. 1861, the act of the legislature of^ Colorado, entitled “An act creating a lien in favor of mechanics in certain cases,” was approved, which was the first law passed by the legislature of Colorado on the subject of liens to mechanics and to persons furnishing materials used in the erection of buildings. On examination of said act it clearly shows that it was not even intended to be made retrospective, consequently it is clear that the plaintiffs cannot recover, by virtue of the provisions of said act, the premises sought to be affected by the plaintiffs having been conveyed to the appellants on the 2d day of September, 1861, long before the passage of said act, and it does not even appear that the appellant had any notice, either actual or constructive, of plaintiffs’ claim upon the premises.
+The attorney for the plaintiffs argues that the lien laws passed by the legislature of the territory of Kansas was in force in Colorado, until the passage of a law upon the same subject by the legislature of Colorado. A portion of Colorado territory embracing territory formerly within the limits of Kansas territory. We are unable to see the force of this reasoning. There is no provision in our organic law adopting or putting in force in this territory any portion of the laws of the late territory of Kansas, or any other laws excepting the constitution and laws of the United States.
+This court being clearly of the opinion that, at the time of the purchase by the appellants of the premises upon which the plaintiffs claim a lien, there was no lien law in force in this territory, the judgment of the district court must be reversed, and the cause remanded for further proceedings.
+Reversed.
