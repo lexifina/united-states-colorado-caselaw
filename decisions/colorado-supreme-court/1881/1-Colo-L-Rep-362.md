@@ -1,0 +1,50 @@
+---
+court: "Colorado Supreme Court"
+decided: "1881-03"
+citations: ["1 Colo. L. Rep. 362"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE ex rel. ROBINSON v. BOUGHTON."]
+source_url: "https://static.case.law/colo-l-rep/1/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12132377
+cites_cases: ["3 Colo., 173", "4 Colo., 129", "64 Mo., 89"]
+---
+
+# People ex rel. Robinson v. Boughton
+
+## Majority (Beck, J.)
+
+Beck, J.
+This is a proceeding instituted for the purpose of determining who is entitled to exercise the duties of the office of judge of the county court of Larimie county, the relator, Thomas M. Robinson, or the respondent, Jay H. Boughton.
+The submission sets out, inter alia, the following facts, viz:
+Boughton was re-elected judge of said court October 2, 1877, for the term of three years. He qualified and entered upon the new term of office January 9, 1878. At the general election held November 2, 1880, one Leonidas E. Denslow was elected as his successor, for the succeding term of three years. Denslow received his certificate of election and on the 26th of November, 1880, filed his oath of office and official bond in due form of law. The bond was approved by the board of county commissioners’on the 8th day of December, 1880. Denslow died on the 1st day of January, 1881, not having had possession of the office.
+On the nth day of January, 1881, the board of county commissioners appointed the relator judge of said county court, to fill the vacancy supposed to have been occasioned by the death of Denslow. The relator qualified on the same day, and on the next day notified the respondent of his appointment and qualification, and demanded possession of the office and its effects. The demand was refused, and the respondent still continues to exercise the duties of the office.
+Notwithstanding the submission of the case upon an agreed statement of facts, a question of jurisdiction is raised on part of the respondent. The objections to the jurisdiction are, that the jurisdiction conferred by the constitution upon this Court, is essentially appellate, whereas this is an original proceeding. Also, that this Court cannot take jurisdiction by an agreed case.
+As to, the last objection, it is only necessary to say that this Court has never held that the facts may not be agreed upon by the parties in causes wherein it has assumed original jurisdiction. Molandin v. Colo. C. R. R. Co., 3 Colo., 173, was not a case of this nature.
+The position taken by counsel for the relator is, that the proceeding is warranted by chapter XXVIII of the Code of Civil Procedure, which provides for submitting a controversy without action.
+If the jurisdiction in this case depended upon the chapter of the Civil Code referred to, it could not be sustained, as the provisions of that chapter, in our opinion, apply to nisi prius courts only. That such was the understanding' of the legislature is evident from the last section, which provides that judgments rendered in the proceeding authorized by the chapter, shall be subject to appeal.
+But while the submission is irregular, the subject matter of the controversy is within our jurisdiction. The constitution confers original jurisdiction on this court to issue writs of quo warranto, and to hear and determine the same. The power so conferred has been construed to include an information in the nature of a quo warranto. The People ex rel., etc., v. Keeling, 4 Colo., 129.
+The repeal of the quo warranto statute, (R. S., Ch. LXXIII), and the enactment of the Code remedy therefor, entitled “Actions for the usurpation of an office or franchise,” (Civil Code, Ch. XXV), did not take away from this court its original jurisdiction in quo zvarranto proceedings conferred by the constitution. High on Ex. Leg. Rem., Sec. 615, and cases cited.
+Counsel misapprehend the point decided in A., T. & S. F. R. R. Co. v. The People, at October special term, 1879. The change made by the legislature in the form of the remedy and in the practice, affected the district courts, not the Supreme Court.
+Having therefore original jurisdiction to entertain an action of this character, and the parties to the controversy having submitted themselves to the jurisdiction, we are disposed, in view of the public interest involved, to treat the proceeding as an information in the nature of a quo warranto, and to entertain it.
+The title of the relator to the office of judge of the county court depends upon the determination of the question, whether on the day of his appointment there existed a vacancy in the office.
+The eleventh section of the election law, approved March 8, 1877, provides that the regular term of all state, district and comity officers shall commence on the second Tuesday of January next after their election, except as otherwise provided by law. (Gen. L., p. 362.)
+According to the provisions of this section, Denslow died ten days before the commencement of the term for which he was elected.
+Section 50 of the act concerning counties, county officers, etc., approved March 24, 1877, provides: “If any vacancy in the office of county judge should occur by death, resignation or otherwise, the board of county commissioners shall appoint some suitable person to fill such vacancy until a successor shall be elected according to law; provided, that if the unexpired term exceed one year, the vacancy shall be filled by election.” (G. L., p. 232.)
+The proviso to the foregoing section was virtually repealed in 1879, by the adoption of the substitute for Sec. 29, of article VI of the constitution, G. L. p. 132. Both the constitution and the statute now authorize the county commissioners to fill a vacancy in the office of county judge, without regard to the duration of the unexpired term.
+Sec. 1 of Art. XII of the constitution authorizes the incumbent of this, and other civil offices, “to exercise the duties of such office until his successor is duly qualified.”
+The foregoing facts, and the constitutional and statutory provisions referred to, bring this case fairly within the rule laid down by the Supreme Court of Missouri, in State ex rel. Attorney General v. Seay, 64 Mo., 89.
+In that case, as in this, the newly elected judge died before the commencement of his term, having previously qualified. The constitution specified the term of office, and provided that officers elected, “ May continue in office until their successors shall be elected and qualified.” It also provides, that “If any vacancy shall happen in the office of any circuit judge by death, resignation, removal out of his circuit, or by any disqualification, the governor shall, upon being satisfied that a vacancy exists, issue a writ of election to fill the vacancy.” A writ was issued, the election held, and the respondent, in that case, was duly elected. He qualified, and entered upon the duties of his office. After-wards, this proceeding, by quo warranto, was instituted to try his title.
+The court, upon a careful review of the authorities, held that the death of the judge elect, after having qualified, but before the commencement of his term, had the effect of creating a vacancy on the expiration of the antecedent term. The court says: “ By the terms of the constitution, Gale’s term was to cease when a successor should be elected and qualified. His successor, Mc-Cord, was duly elected and duly qualified, and, when that occurred, Gale’s right to hold over ceased, and the death of that successor before his term commenced did not revive a right in Gale which ceased when McCord qualified.”
+The cases which hold, under similar constitutional provisions, that the death of the officer elect before entering into possession of his office creates no vacancy, were reviewed and examined, and shown to be based upon the fact, that such deceased officer had not qualified in his office. For this reason, these cases sustain the right of the incumbent to hold over until a successor shall be elected and qualified.
+We regard the doctrine of the Missouri case cited as sound, and as laying down the correct rule. No well considered case is cited, or known to us, which is in conflict.
+The points raised by respondent’s counsel, that the submission fails to show that the relator was eligible to the office at the time of his appointment, or that the board of county commissioners was in open session at the time of the approval of his official bond, and other similar points, cannot be considered.
+Both parties to this record have signed the submission and statement of facts. It includes the evidence of both parties, and must be presumed to contain all the disqualifying facts which the respondent relies upon to defeat the title of the relator. The points in controversy submitted are: First—Was there a vacancy? Second—Is the respondent entitled to continue to exercise the duties of the office? Third—Is the relator entitled to the possession of said office?
+No question is submitted as to the eligibility of the relator, or the manner in which he qualified, nor has the respondent caused to be inserted in the submission any facts tending to show an irregularity in respect to any of these points. It will be presumed, therefore, that none exists.
+Nor is there any force in the suggestion that no judgment can be rendered, for the reason, that the submission fails to state what judgment may be rendered.
+The parties having submitted themselves to the jurisdiction of the court, it will not only determine their rights, but enforce its adjudication by the entry of an appropriate judgment.
+The opinion of the court is, that' there was a vacancy in the office of county judge on the nth day of January, 1881; that the respondent is not entitled to continue to exercise the duties of said office; and that the relator is entitled to the possession of said office. Judgment will therefore be entered in favor of the relator.
+Haynes, Dunning & Haynes, attorneys for relator.
+L. R. Rhodes, attorney for respondent.
