@@ -1,0 +1,37 @@
+---
+court: "Colorado Supreme Court"
+decided: "1884-02-29"
+citations: ["4 Colo. L. Rep. 493"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KISKADDEN v. ALLEN."]
+source_url: "https://static.case.law/colo-l-rep/4/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12139988
+cites_cases: ["2 Colo., 218", "4 Colo., 165"]
+---
+
+# Kiskadden v. Allen
+
+## Majority (Stone, J.)
+
+Stone, J.
+The action in the Court below was by appellee against appellant upon the following instrument, to wit:
+“ $284.00. Denver, Colorado, Jan. 12, 1882.
+“ On or before March 12,1882, after date, I promise to pay to the order of J. 0. Allen two hundred and eighty-four dollars, at the City National Bank, with interest ten per cent, per annum. Value received. This note becomes due and payable when (if before March 12, 1882,) Allen, Burke & Co. shall dispose of a part or all their interest in the New York Hotel, or when the interest of M. C. Burke may be sold or disposed of.
+“(Signed) M, C. Burke.”
+And endorsed, “William Kisk'adden,”
+Appellee got judgment for $298.75, which judgment the appellant, Kiskadden, asks to have reversed, on the grounds that:
+First—The instrument sued on is not a promissory note.
+Second—That there was no consideration for the signing by appellant.
+Third—That appellant was discharged by merger of the contract in a prior judgment in favor of appellee against Burke.
+Fourth—That appellant was merely a surety, and was discharged by the conduct of appellee.
+Upon the first ground it is argued that the instrument is not payable at a time certain, and that it is not payable at all events.
+We think these objections are opposed to a fair construction of the instrument. The body of the obligation is a definite promise to pay at a time certain; it is in the usual form of an ordinary promissory note. The words appended to the body of the note provide, that if the interest of Allen, Burke & Co., or that of Burke alone, in a certain hotel, shall be sold before the date of maturity of the note, then the note shall become due and payable upon the happening of the event of such sale. This was a contingency which might or might not happen; but whether it happened or not, the note, by express terms, became payable upon a certain day mentioned. This condition, therefore, if given the meaning it fairly imports, does not affect the character of the instrument as a promissory note.
+As to the objection of want of consideration, this is not well taken, since the testimony shows, without contradiction, that the defendant endorsed the note at the time it was made, and before delivery to the payee, and with the clear understanding that the note would not be accepted unless so signed by the defendant; and this Court has held, that when a promissory note, made payable to a particular person or order, as in this case, is first endorsed by a third person, such third person is held to be an original promisor, guarantor, or endorser, according to the nature of the transaction and the understanding of the parties at the time the transaction took place. If he put his name on the back of the note at the time it was made, as surety for the maker and for his accommodation, to give him credit with the payee; or if he participated in the consideration for which the note was given, he must be considered as a joint maker of the note. (Good v. Martin, 4 Colo., 165; and same case, 2 Colo., 218.) Clearly, then, as joint maker the defendant was liable, even though he did not participate in the consideration for which the note was given, for in such case he is deemed to have adopted the consideration of his joint maker. This being the case, we need not pass upon the special consideration for which, as shown by the testimony, the defendant endorsed the note.
+J. H. Brown, for appellant.
+Browne & Putnam, for appellee.
+In respect to the third point, that the contract of the defendant was merged in the prior judgment of the plaintiff against Burke, a point which is made by counsel for defendant to rest upon the conceded liability of the defendant as joint obligor, we need only say that this point, even if there be anything in it, is not properly raised by specific assignment of error, and in accordance with our settled practice, we will not undertake to review points not clearly covered by the assignments upon the record.
+The other point made by counsel, that the defendant was merely a surety on the note, and that the conduct of plaintiff operated to release such liability, is unavailing. In support of the third point, above passed upon, the counsel for defendant admits that defendant was a joint maker of the note, and cites the case of Good v. Martin, supra, to the truth of this proposition. If, then, the defendant, as joint maker, was an original promisor, he could not at the same time be liable merely as surety. But if he had been liable only as surety, the conduct of plaintiff set up, to wit: That subsequent to the maturity of the note, plaintiff paid a sum of money to Burke, equal in amount to that of this note, in settlement of a certain suit of Burke against plaintiff, was not of that character which would of itself operate to discharge the supposed suretyship liability of defendant upon the note in question.
+The judgment of the Court below is affirmed.
