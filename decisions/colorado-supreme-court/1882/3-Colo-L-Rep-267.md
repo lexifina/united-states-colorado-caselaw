@@ -1,0 +1,46 @@
+---
+court: "Colorado Supreme Court"
+decided: "1882-12-05"
+citations: ["3 Colo. L. Rep. 267"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRIFFITH v. WRIGHT."]
+source_url: "https://static.case.law/colo-l-rep/3/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12130988
+cites_cases: ["3 Colo., 535", "3 Colo., 536", "38 Cal., 315", "67 Ill., 437", "8 Allen, 153"]
+---
+
+# Griffith v. Wright
+
+## Majority (Beck, J.)
+
+Beck, J.
+The decree in this case enjoining the plaintiff in error from selling the lots mentioned in the trust deed, and decreeing the cancellation and release of the trust deed, must have been based on the ground of estoppel by conduct, although the proofs fail to show payment of the note, or fraud on part of the plaintiff in error, or that defendant in error was deceived or misled by the plaintiff in error or her agents.
+The question on this record appears to be this, where the matter of estoppel relied upon was unknown to the complainant at the time of the transaction in which he claims to have been misled, to his injury, does the fact that matter of estoppel existed at the time afford him ground of relief in equity?
+Elementary writers say this branch of the law of estoppel, designated estoppel by conduct, originated in the doctrine of equity, that if a representation be made to ánother, who deals upon the faith of it, the former shall make the representation good, if he knew it to be false.
+But they further say, that to justify the interposition of equity the misrepresentation must have been in a matter of importance to the interests of the other party, and must have actually misled him&emdash;that there must have been a change of conduct produced by the representation; for if the party all eg-ing the estoppel did not trust in it, and was not deceived or induced to alter his position, there is no estoppel. Bigelow on Estoppel, pp. 431, 492; 1 Story’s Eq. Jur., Sec. 191; 2 Story’s Eq. Jur., Sec. 1543.
+The rule is, that in order to constitute an estoppel by conduct, all the'essential elements of such an estoppel must be present. Bigelow on Estoppel, p. 437; People v. Brown et al., 67 Ill., 437; Martin v. Zellerback, 38 Cal., 315.
+In the case of Patterson v. Hitchcock, 3 Colo., 536, this Court, upon a review of the authorities, held the following to be the essential elements of an estoppel by conduct:
+First—There must have been a representation or concealment of material facts.
+Second—The representation must have been made with knowledge of the facts, unless the party making the representation was bound to know the facts, or ignorance of them was the result of gross negligence.
+Third—The party to whom it was made must have been ignorant of the truth of the matter.
+Fourth—It must have been made with the intention that the other party should act upon it; but gross and culpable negligence upon the part of the party sought to be estopped, the effect of which is to make a fraud on the party setting up the estoppel, supplies the place of intent.
+Fifth—The other party must have been induced to act upon it.
+This Court said, in the case last cited, in commenting upon the doctrine of equitable estoppel, with respect to its effect upon the title to realty, that “its enforcement should be carefully guarded, and unhesitatingly refused, except when all the elements of an estoppel are present.” 3 Colo., 535.
+It is apparent from the pleadings and the proofs that the fifth element of an estoppel by conduct is wanting in this case.
+Defendant in error, Edward Wright, sets up in his complaint that he purchased three town lots, situated in the town of Ouray, from one Mathews, and received a warranty deed therefor. That Mathews had previously executed a promissory note to the plaintiff in error, Mrs. Griffith, and secured payment of the same by a trust deed on the same lots. That Mrs. Griffith had placed this note for collection in the Miners’ Exchange Bank of Leadville, and charging on information and belief that it had been paid by Mathews to the bank—can-celled and delivered up to Mathews. Wright alleges that at the time of his purchase the note was delivered up to him marked paid (giving a fac simile of the bank stamp cancelling it), and alleging that, at time of his purchase he had every reason to believe, and did believe, that the trust deed had been cancelled and released. The bill prays that defendant be enjoined from selling under the trust deed, and that the same be declared null and void, and ordered to be cancelled and released of record.
+The answer denies payment of the note, cancellation or release of the trust deed, and denies that plaintiff had any reason to believe, or did believe, that the trust deed was cancelled or released, alleging that the trust deed was duly recorded, and that plaintiff, Wright, had notice by the record that it still remained in full force.
+The answer also charges that Mathews, the maker of the note, fraudulently procured said note to be marked paid and delivered up, of which Wright had notice.
+No replication was filed.
+It will be observed that Wright makes no specific allegation in his complaint that he knew of the existence of the trust deed at the time of his purchase. Nor is there such an allegation that he knew that the promissory note referred to was in any manner connected with the lots, or with an encumbrance upon the lots. Touching these material points the bill is evasive. True, Wright had constructive notice of the encumbrance by the record, hut this point is against him, for if he had examined the records as he was bound to do, he would have found that the trust deed was in full force. This would have put him on inquiry. But the proofs do not support the allegations of the bill, such as they are.
+The evidence proves conclusively that the note was not paid and that the trust deed had not been released; that while the note was in the Miners’ Exchange Bank at Leadville for collection, the collecting clerk of the bank received a payment upon it from the maker, Mathews, April 8, 1879, and by an error in the calculation of interest, stamped it paid and delivered it up to him, the sum of $97.17 remaining due and unpaid thereon at the time. The mistake was discovered soon after, and Mathews asked to correct it, which he refused to do. The property was then advertised for sale under the trust deed.
+Wm. Story and Thos. George, for plaintiff in error.
+Stallcup & Lathe, for defendants.
+The testimony of Wright, the defendant in error, is, that he bought the lots from Mathews on the 19th day of May, 1879, and the circumstances of the transaction as detailed by him are, that he received a letter from .Mathews, who was in Lead-ville, asking if he wanted to buy the lots. Plaintiff in error was in Ouray—he wrote his brother at Leadville to purchase them for him if he could get the three lots for three hundred dollars. His brother bought the lots, at the price named, from Mathews, paid the money and received a deed from Mathews, which he sent to the plaintiff, together with the promissory note before mentioned. Plaintiff then .produced the note in evidence, said he had no knowledge whether it had ever been paid, and concluded his testimony thus: “ This is all I know in regard to the circumstances of the case.”
+Wright’s brother, who negotiated the purchase, was not a witness; Mathews was not a witness, and there was no evidence to show that either plaintiff or his brother knew of the existence of the trust deed, or that the note was secured by a deed of any description upon the lots. The note itself was put in evidence, with its endorsements and caiicellation, but it bore no memorandum referring to the trust deed.
+The plaintiff, while testifying in his own behalf, failed to state any facts showing that he had been induced to change his course of dealing on account of the supposed cancellation of the note, nor did he testify that he was in any manner misled by it to his injury.
+Upon the whole record we are satisfied that an essential element of the law of estoppel is wanting, and that in no view of the case was the plaintiff below entitled to equitable relief.
+These views are supported by the case of Grimes v. Kimball, 8 Allen, 153, cited by defendant’s counsel, a case somewhat similar in its facts.
+The decree is reversed, with direction to the Court below to dismiss the complaint.
