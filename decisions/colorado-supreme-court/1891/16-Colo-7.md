@@ -1,0 +1,25 @@
+---
+court: "Colorado Supreme Court"
+decided: "1891-01"
+citations: ["16 Colo. 7"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Collins v. Burns."]
+source_url: "https://static.case.law/colo/16/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2550928
+cites_cases: ["8 Colo. 56"]
+---
+
+# Collins v. Burns
+
+## Majority (Chief Justice Helm)
+
+Chief Justice Helm
+delivered the opinion of the court.
+The court did not err in overruling the challenges for cause to the jurors Hewitt and Tourtelotte. Hewitt had heard “ some of the facts.” Tourtelotte had “ heard of the case.” Hewitt, at the time he learned of the matters involved, formed “ a slight opinion,” but had since forgotten even the statements made to him. Tourtelotte formed and ' expressed a conditional opinion, which, however, did not concern the real merits of the controversy. Each swore upon his vow di/re that he thought he could try the case fairly upon the evidence introduced at the trial, regardless of the opinion previously entertained.
+The statute does not make the forming, or even the expressing, of an opinion a decisive test as to the juror’s competency, unless such opinion be “ unqualified * * * as to the merits of the action.” Civil Code, § 182. The object of the law in this as in all other respects is to secure fair and impartial trials. Intelligent citizens are sure to hear of cases, both civil and criminal, involving the public interest or welfare; and they are equally certain to base some sort of an opinion upon what they hear. It would be a travesty upon the administration of justice if every intelligent man were thus disqualified from sitting as a juror in such cases. The law fortunately does not involve this absurdity. It takes notice of the fact that intelligence, even when coupled with preconceived impressions, may award more impartial justice than ignorance, too often swayed 'by impulse or prejudice, and perhaps incapable of logical discrimination. Hence a large discretion, to be carefully exercised for the purpose of insuring equitable results, is lodged with the trial judge in the selection of jurors,-— a discretion that must be governed largely by the characteristics of the juror and the special circumstances connected with each particular challenge; and where no positive provision of the statute is disregarded, unless there appears to have been a gross abuse of discretion in determining the question of enmity or bias, courts of review will not interfere. Railroad Co. v. Moynahan, 8 Colo. 56.
+A writ of attachment was duly issued at the commencement of the action, and levied upon certain property of defendant. Plaintiff’s affidavit in attachment was traversed by defendant, and an issue thus made, as permitted by law. This issue was tried by the county court, and judgment was rendered sustaining the attachment. When the cause was afterwards appealed by defendant to the district court, it stood for trial from the beginning de novo. The application to dissolve the attachment upon the traverse of the affidavit might have been first retried; but the record before us is entirely silent upon the subject, and from this silence we must presume that the attempt to dissolve the attachment was not renewed. It was not the duty of the judge to retry this collateral issue, unless requested to do so; and for aught we know he may not have been aware of its existence. By appearing in the district court, and retrying his cause on the merits without insisting upon a disposition of his attachment traverse, appellant must be held to have abandoned the dissolution proceeding. He cannot now be heard to complain because the court below did not formally dispose of the attachment issue.
+When the present appeal was taken, the act (Sess. Laws 1889, p. 78) authorizing a review of judicial orders subsequent to final judgment was not in force. But, had it been, the objection in this case, predicated upon a subsequent ruling, is not well taken. Attachment proceedings are purely statutory, and must throughout substantially conform to the statutory requirements. As we have already seen, the act. prescribes a method for procuring the dissolution of attachments and a return of the property taken. Civil Code, §§ 96, 113. It also provides for the release of personal property attached, and its redelivery to defendant upon the giving of a forthcoming bond. Id. §§ 111, 112. If these remedies be not invoked, there seems to be no legal alternative but for the levy to remain in force, and for the sheriff to retain possession of personal property taken under his writ. We find nothing in the statutes giving an appeal undertaking the force or effect of a forthcoming bond, or permitting such an instrument to otherwise alter the status of attached property. The district judge ruled correctly in denying appellant’s petition for a discharge of the attachment, predicated upon the undertaking on appeal from the county court. The judgment of the district court is affirmed.
+Affirmed.
