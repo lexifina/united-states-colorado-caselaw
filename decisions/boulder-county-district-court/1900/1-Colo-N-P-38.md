@@ -1,0 +1,36 @@
+---
+court: "Boulder County District Court"
+docket: "4041"
+decided: "1900-04-12"
+citations: ["1 Colo. N. P. 38"]
+reporter: "colo-n-p"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dobbins, County Treasurer of Boulder County v. Colo. & So. R. Co. et al."]
+source_url: "https://static.case.law/colo-n-p/1/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327840
+cites_cases: ["115 U. S. 550", "20 Colo. 178", "6 L. R. A. 69", "96 Ill. 481"]
+---
+
+# Dobbins v. Colo. & So. R. Co.
+
+## Majority (Johnson, J.)
+
+Johnson, J.
+This matter is presented upon a general demurrer to the complaint. The complaint substantially charges that the defendant railroad company is indebted to the county of Boulder in the sum of $1,322.70 for taxes for the years 1898 and 1899; that the defendant company refuses to pay said faxes, and the plaintiff, as county treasurer, has been unable to collect the same by reason of the insufficiency of the law, contending that he has no right to sell a part of the railroad located in his county. He therefore asks the court to adjudge a lien upori the railroad property and appoint a receiver to take charge of the railroad and collect the taxes and cause them to be paid over to the county.
+Counsel for the defendant contends that there is no. authority in the court to enforce the proceedings "instituted herein.
+We confess at the outset that the case is of novel character in presenting to our view a condition of- law which permits railroad companies to defy our tax .collectors and successfully avoid the payment of taxes to the county and state which is not shared by other ordinary taxpayers. We are sorry to say, however, if this condition exists, that it is the fault of the law-making powers, and not the courts, in omitting to provide suitable means for the collection of taxes from this class of corporations. .The propostion we are called upon to decide is whether or not, if the law is defective in this particular, a court can furnish a remedy in the way of rendering a judgment against a railroad company, or creating a lien against its property, ■ and appoint a receiver for an entire railroad system, with authority to collect the taxes and 'pay it- over to the county.
+In the case of Thompson v. Allen County, 115 U. S. 550, ' the court holds: “A court of law possesses no power, to levy taxes. It's power to compel officers who are lawfully appointed, for that purpose, in a- case where the duty to do so is clear, and is strictly. ministerial, rests upon a ground very different from and much narrower than that under which a court of chancery would-act in appointing its own officer either to assess or collect such a tax.
+“In the one case the officers exist, the duty is plain, the plaintiff has a legal right to have these officers perform that duty for his benefit and the remedy to compel this performance, namely, the writ of mandamus has been a well known process in the hands of the courts of common law for ages. In the other there exists no officer authorized to levy the tax, or to collect it when levied. The power to enforce collection when the tax is levied, or to cause it to be levied by existing officers, is a common law power strictly guarded and limited to cases of mere ministerial duty, and is not one of the powers of a court of chancery. It would require in this court, not the compulsory process against some existing officer to make him perform a recognized duty, but the appointment by the court of such an officer and a decree directing him what to do.
+“In the one case, his power proceeds from the law, and he is compelled to exercise it; in the other, it proceeds from the court which first makes its own decree and makes an officer to enforce it. No such power has ever yet been exercised by a court of chancery. The appointment of its own officer to collect taxes levied by order of a common law court is as much without authority as to appoint the same officer to levy and collect the tax.”
+The case of the Louisville Water Company v. the Commonwealth of Kentucky, 6 L. R. A. 69, holds: “A suit cannot be maintained in the absence of legislative authority.”
+In Montezuma Water Supply Company v. Bell et al., 20th Colo., p. 175, the court holds: “While it has been held in some cases that the imposition and assessment of a tax creates a legal obligation to pay upon which the law will raise an assumpsit, notwithstanding the statute has given a.specific remedy, yet the clear weight of authority is to the effect that when the statute undertakes to provide remedies, and those given do not embrace an action at law, such an act will not lie. Nor will a suit in equity lie to enforce the lien upon real estate given by statute, but such lien must be enforced by strict compliance with the requirements of the statute.”
+People v. Biggins, 96 Ill. 481, holds: “A court of chancery has no jurisdiction to enforce the lien upon real estate given by statute for taxes assessed thereon. Such a lien is purely legal in its character, the creature of the statute not arising-upon contract, and can be enforced in the mode provided by the law of its creation, and in no other mode. * * * If our revenue law is defective, it is the duty and business of the legislature to amend it. Courts are powerless to interfere. They cannot make, but can only construe laws after they are made by the Legislature.”
+So it is clear to my mind, under these decisions, no right of action exists in this case in favor of the plaintiff as set forth in his complaint.
+Counsel for petitioner contends that unless the court lends its aid in this matter no means can be employed whereby the railroad company can be compelled to pay its taxes.
+He reasons that owing to such defect in the law a court of equity should step in and supply the legislative omission by furnishing a remedy in the nature of sequestration. This claim finds some sanction in a few cases; but upon examination they all relate to creditor’s actions to recover their debts without interfering with the railroad as a system; here receivers have been appointed; but in the class of cases now before us, no authority has been cited where such action has been taken by a court.
+It is said a tax is not a debt, and that the relation of debtor and creditor does not exist between the government and the taxpayer unless expressly so declared by statute in the nature of a civil action at law to recover such tax.
+In our state we have such a statute, as to the recovery of tax on personal property (2 Mills Ann. St. § 3771), but not as to recovery of tax on real property. (See 20 Colo. 178.)
+The peculiar attitude of courts on this question is that the levying and collecting of a tax is an arbitrary act of government, in which the individual has very little to say except as he expresses his wishes at the polls through the elective franchise system. That it strictly belongs to the legislative branch of the-government to provide the means and method of levying and collecting a tax, and until this is done no tax can be enforced against the citizen ; at least it is not the province of the courts of equity to supply the law in this matter.
+Therefore the demurrer will be sustained.
