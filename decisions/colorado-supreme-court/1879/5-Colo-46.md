@@ -1,0 +1,28 @@
+---
+court: "Colorado Supreme Court"
+decided: "1879-04"
+citations: ["5 Colo. 46"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barndollar et al. v. Patton."]
+source_url: "https://static.case.law/colo/5/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 193383
+cites_cases: ["29 Cal. 240"]
+---
+
+# Barndollar v. Patton
+
+## Majority (Stone, J.)
+
+Stone, J.
+It is assigned for error, first: that the second summons was-issued more than thirty days after the filing of the complaint.’ Sec. 30 of the Code provides that at any time within one month after the filing of the complaint the plaintiff may have a summons issued. This clearly refers to the summons first issued in the case. The Code makes no provision for an alias summons. The Supreme Court of California, in considering a like feature of the Code of that State, in the case of Dupuy v. Shear, 29 Cal. 240, say: “ A technical alias summons is not known to our law, and in fact, under our system of practice, there is no necessity for one. The summons •specifies no return day, and when it has once been issued, it may be served and returned at any time without reference to the time of the commencement of the next term of court. * * * If more than one summons is authorized by the Practice Act, the second has no necessary connection with, or dependence upon the first. It is based upon the. complaint alone.” If any importance were to be attached to the dictum above quoted respecting an alias summons, that “There is no necessity for one,” it must be taken to apply only to a case where the writ is sufficient in the first instance, and where it is capable of performing the office for which it was issued. Indeed, in the very case from which we quote the above, it became necessary to issue a new summons, for the reason that the first one was lost by the officer before it was served. Where the writ is fatally defective, or has been issued without authority, or for any other reason it is incapable of effectuating its purpose, and for such reason is quashed, or otherwise fails in performing its office, it is manifest that another writ is necessary. If then, under our Code, this contingency should happen after the expiration of thirty days from the issuance of the summons, it would be a most impotent conclusion to hold that there was not inherent power in the court, in the absence of statutory provision, to award an alias or new writ. And in the case of Dupuy v. Shear, supra, the court further on, per Sawyer, J., say: “If the court had any authority to direct a second summons to issue, it must be because by filing the complaint and issuing a summons thereon, a suit had been commenced within the meaning of the provisions of the Practice Act, and there was thenceforth a suit pending and within the control of the court, which the court, by virtue of its general powers over the subject-matter was authorized to dispose of, and as incident to this power it was authorized to direct procéss to issue for the purpose of acquiring jurisdiction of the person. * * * Conceding this authority to exist, the exercise of the po¿ver rests in the sound legal discretion of the court.”
+This conclusion is undoubtedly sound. In the case before us, the first summons was quashed because of its being fatally defective in form, in that it did not contain a statement of the cause of action, as required by statute, and thereupon a new writ was awarded by order of the court, as appears by the record. This proceeding wras regular and proper.
+The second ground of error is the overruling of the motion ‘to quash the second summons. The objection to the second writ was substantially the same as to the first.
+That portion of the writ purporting to state “ the cause and general nature of the action,” as required by Sec. 31 of the Code, is as follows: “The said action is brought to recover of the defendants herein named the sum of seven hundred twenty-six and fjj, dollars, evidenced by a promissory note dated December 1,1873, which is more fully set forth in the plaintiff’s complaint, filed in this court in this action, duly verified, together with interest and the costs of this suit.” While we cannot pronounce this a model, either in form or substance, oí the notice required, yet under the liberal intendments of our Code practice, it may be regarded as a sufficient compliance witli the statute; at least, the objection is not so serious as to warrant a reversal of the judgment upon that ground alone.
+The error assigned as to the defective return of the sheriff is cured by the supplemental record showing the amended return.
+Another point made by plaintiffs in error is, that the judgment was rendered in vacation.
+A default was first taken for failure to answer, and final judgment rendered thereupon, in accordance with the provisions of sections 144 and 150 of the Code, and under the authority thereby conferred, there was no error in the rendition and entry of the judgment. Ganebin v. Phelan, impleaded, &c. (decided by this court, the present term). The objection that plaintiff below did not comply with the requirement of section 572 of the General Laws, in respect to the jurisdictional averment in his complaint, seems to be without foundation in fact, since the record shows that the first paragraph of the complaint sets out a promissory note for the sum of .$336 to recover which, with interest, the suit is brought; and the fotorth paragraph is a special averment that the judgment demanded by the plaintiffs in the action does not exceed the sum of two thousand dollars.
+The judgment of the county court will be affirmed.
+Affirmed.
