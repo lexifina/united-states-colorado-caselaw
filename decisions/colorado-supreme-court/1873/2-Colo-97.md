@@ -1,0 +1,25 @@
+---
+court: "Colorado Supreme Court"
+decided: "1873-02"
+citations: ["2 Colo. 97"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. The Board of County Commissioners of Fremont County v. The Auditor of Colorado Territory, James B. Thompson."]
+source_url: "https://static.case.law/colo/2/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 188905
+cites_cases: ["6 How. 102"]
+---
+
+# People ex rel. Board of County Commissioners v. Auditor of Colorado Territory
+
+## Majority (Beleord, J.)
+
+Beleord, J.
+This was an application for a mandamus against the territorial auditor, to compel him to audit a claim, and to draw a warrant for the same on the treasurer, in favor of the board of county commissioners of Fremont county, for the maintenance and custody of two lunatics. An alternative writ issued, and in the return thereto it is alleged, as an excuse for not allowing the claim, that, in the opinion of the auditor, it was not only excessive and fraudulent, but that no appropriation had been made by the legislature to pay such claims, and that to draw a warrant for its payment was to violate the law. To the return a demurrer was filed and overruled, and this is the only error assigned. Where an officer is charged with the performance of a purely ministerial duty, and he fails to perform it, a writ will issue; but where it appears that the officer, as in this case, is called upon to audit and examine claims, and in doing so is invested with judicial powers, a court, while it may compel him to take action, will never dictate what his decision shall be, and this is the exact thing the plaintiffs in error asked.
+The act prescribing the duties of the auditor provides “that, whenever he may think it necessary to the proper settlement of any account,- he may examine the party’s witnesses, and others, touching anything material to be known, in the settlement of such an account, and, for that purpose, may issue subpoenas, and compel witnesses to attend before him and give evidence, in the same manner, and by the same means allowed by law to courts of record. That, if any person interested shall be dissatisfied with the decision of the auditor on any claim, account or credit, the auditor shall, at the request of such person, certify his decision, with the reasons therefor, specifying the items rejected, if less than the whole, and refer the same to the general assembly. That, in all cases where the law recognizes a claim for money against the territory, and no appropriation shall be made by law to pay the same, the auditor shall audit and adjust the same, and give the. claimant a certificate of the amount thereof, if demanded, and shall report the same to the general assembly, with as little delay as possible. That no warrant shall be drawn by the auditor, or paid by the treasurer, unless the money has been previously appropriated.”
+Prom these various provisions, it will be seen that the powers and duties of the auditor are something more than mere ministerial ones. In Brashear v. Mason, 6 How. 102, it is said that the duties devolved on one at the head of one of the executive departments of the government, whether such duties are imposed by act of congress or by resolution, are not mere ministerial duties, and that the court could not act directly upon the officer, and guide or control his judgment or discretion in matters committed to his care in the ordinary discharge of his official duties. If a party were to present a claim against the territory, and the auditor should refuse to examine it, the court would issue a writ commanding him to do so. But this case is not of that character. We are asked to compel the auditor, not to audit the claim, but to allow and pay it, and this, too, when he believes that the same is excessive and fraudulent. It further appears, from the return of the auditor, that he has been ready, at all times, to audit said claim, and allow so much of the same as appeared just and proper. What more can be required of him? Can it, under any circumstances, be said that a court can compel Mm to do more \ If a court would enlist in such, service, we might anticipate an organized raid on the public funds, and the court, instead of the auditor, would become the supervisor of accounts against the territory.
+It is equally clear that, if the claim were a just one, we could not grant the writ.
+Ho money can be drawn out of the treasury without an appropriation, and from a careful examination of the facts set out in the return, and which are admitted by the demurrer, we are of the opinion that no appropriation had been made for the payment of this claim. Ho fund was in existence. It being well settled that, before a writ will issue, a plain dereliction of duty must be established, and, seeing no evidence of such dereliction in this record, we must affirm the action of the court below, which is accordingly done, with costs.
+Affirmed.
