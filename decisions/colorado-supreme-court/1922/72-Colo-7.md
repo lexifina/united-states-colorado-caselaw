@@ -1,0 +1,45 @@
+---
+court: "Colorado Supreme Court"
+docket: "9785"
+decided: "1922-07-03"
+citations: ["72 Colo. 7"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mr. Chief Justice Scott and Mr. Justice Campbell not participating.", "Mr. Justice Teller sitting as Chief Justice."]
+parties: ["Morletti v. The People."]
+source_url: "https://static.case.law/colo/72/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2723799
+cites_cases: ["119 Pac. 687", "189 Pac. 249", "209 Pac. 798", "52 Colo. 1", "67 Colo. 541"]
+---
+
+# Morletti v. People
+
+## Majority (Mr. Justice Burke)
+
+Mr. Justice Burke
+delivered the opinion of the court.
+Plaintiff in error (defendant below and hereinafter so designated) was convicted of murder in the first degree and sentenced to life imprisonment. To review that judgment he brings error.
+On the late afternoon of September 10, 1919, Celeste Mattavi, Gust Danielson, Fred Sund and Eric Smith, employees of The Tomboy Mines Company, were murdered at the Montana Tunnel of the Tomboy mine near Telluride in San Miguel County. They belonged to a night shift and were at the time on their way to work. Mattavi was found dead a short distance outside the tunnel and Daniel-son, Sund and Smith at different places inside. Each had a bullet hole through the head back of the left ear, showing powder burns, and each had one or more other wounds. Separate informations were filed against defendant charging him with these four murders. The causes were consolidated and tried as one.
+Of the eight assignments of error the following points only are argued or deserve consideration: 1. The insufficiency of the evidence. 2. The method by which certain statements of defendant offered in evidence were obtained. 3. The giving of a portion of instruction No. 9. 4. The court’s refusal to give defendant’s instruction No. 18. 5. The giving of instruction No. 19.
+1. The people’s evidence was entirely circumstantial and the principal contention of the defendant here is that the circumstances relied upon are so disconnected, unreasonable, improbable and conflicting as to be insufficient to support the verdict. So wanton and dastardly were the crimes here under investigation, so disastrous to the state and so terrible to the defendant would be a miscarriage of justice, that in our review we have examined with care every word of the testimony and every exhibit which appeared to us in the least necessary to a thorough understanding thereof.
+Defendant Morletti, deceased Mattavi and one John Giacomozzi (plaintiff in error in case No. 9954 [209 Pac. 798] this day affirmed) were contracting on the 1000 level of this mine and the other victims, Sund, Danielson and Smith, and one Kochever (who appears to have received a slight flesh wound in the leg, probably at the time of the tragedy) were contracting below them on the 1150 level. For ten days both gangs had been going to work on night shift through the Montana Tunnel. It is admitted that on the evening in question Morletti, Mattavi and Giacomozzi approached the portal in one group and Sund, Danielson and Smith in another. The exact location of Kochever is not so certain but we think the jury concluded, and were justified therein by the evidence, that he was with his associates.
+It is the position of the prosecution that defendant’s group first entered the tunnel. If so all doubt of guilt is by that fact resolved against him, and there is sufficient evidence to support that finding. It is the contention of defendant that he and his companions never entered the tunnel and that they had been preceded by Sund, Danielson, Smith and Kochever. If so defendant could have no knowledge of certain conditions existing inside after the tragedy and concerning which several witnesses testified he gave information. It is said that if defendant’s guilt be assumed the killing of his own associate Mattavi and the wounding, escape and peculiar position taken by Koch-ever are wholly inexplicable. With this assertion we are unable to agree. Circumstances which the jurors were entitled to consider as proven beyond a reasonable doubt, justified an entirely reconcilable theory concerning these rather peculiar facts and we must assume that the jury adopted it.
+Much stress is laid by the defense upon the alleged absence of motive. It appears that on several occasions defendant and his associates had been greatly annoyed an'd driven from their work by smoke arising from fires built in the workings below them, and had more than once made complaint on that score. Otherwise no motive for this crime is suggested by the record before us. That fact is not, however, peculiar to this case. It often happens that the motive for crime escapes the shrewdest investigator. . If the jury is otherwise convinced beyond a reasonable doubt of guilt absence of motive is no ground for acquittal. Blanda v. People, 67 Colo. 541, 547, 189 Pac. 249.
+2. While defendant was in custody he was taken to the scene of the crime, interrogated concerning his version of the transaction, and his answers stenographieally reported. When this evidence was offered at the trial objection thereto was specifically waived. Error can not now therefore be predicated thereon.
+3. No assignment of error'goes to instruction No. 9. We have, however, considered the argument thereon and while we find the portion complained of very defective that defect is entirely supplied by the remainder of the instruction.
+4. Instruction No. 18, refused by the court, reads as follows:
+“You are instructed that under the law no person charged with a crime can be compelled to testify against himself and in this case it was not in the power of either this defendant or the court to compel Giacomozzi or Koch-ever, the persons against whom informations are pending, upon the charge of murder, to appear and testify in this case, and the failure of the defendant to present such witnesses should not prejudice him in this case.”
+The purpose of this instruction is apparent from the reading thereof. We consider it in connection with instruction No. 19 given by the court.
+5. Instruction No. 19 reads:
+“You are instructed that under the Constitution of this State no person can be compelled to testify against himself in a criminal case, nor can a person be compelled to testify in a criminal case in which he reasonably claims that any testimony which he might give would tend to incriminate him. While both the People and the defendant had the right to have subpoenas issued for such witnesses as they might wish, the Court could not compel any witness to testify if he declined to give testimony upon the ground that it might tend to incriminate him.”
+There is nothing in this record (save instruction No. 18 above quoted) to show that either Giaeomozzi or Kochever had been informed against or accused of the crime. There is nothing to indicate that either was out of reach of the process of the court or had declined to testify. Neither was called to the stand hence the defense had no right to the giving of either instruction.
+The record in this case is remarkable for the courteous and lawyerlike conduct of counsel and the fact that such minor errors as appear are all favorable to the accused. The crime charged was particularly atrocious. The defendant’s nationality (Austrian) was such as doubtless would at the time of the trial have some adverse effect in many communities in this country, and, as we gather from suggestions in the record before us, a considerable reward had been offered for the arrest and conviction of the murderers. If these facts, as is always within the range of possibility, had weight against the accused, we must look for their correction to the trial Judge who has all the jurors’ advantage in seeing and hearing the witnesses and is presumably removed from the atmosphere of prejudice which sometimes surrounds them. He will not permit such a verdict to stand if in view of all the facts and circumstances within his knowledge it does not meet the approval of his judgment and conscience. Piel v. People, 52 Colo. 1, 119 Pac. 687.
+In passing upon the motion for a new trial in this case Judge Black said:
+“The jury, in my judgment, were impressed with the untruth of the statements of the defendant as to where he went that night, what he did and what he knew.
+In addition to that, the defendant himself, when placed upon the stand, in my judgment made an unfavorable impression upon the jury. The statements made by him, his manner of making them, and his conduct and appearance, I think impressed the jury with the fact that he was not telling the truth. That occurred to me at the time. And I am not disposed to disturb the verdict of the jury for the reason that the evidence is not sufficient to warrant it.”
+We must assume that he fully understood his duty in the premises and conscientiously discharged it.
+The judgment is affirmed.
+Mr. Chief Justice Scott and Mr. Justice Campbell not participating.
+Mr. Justice Teller sitting as Chief Justice.
