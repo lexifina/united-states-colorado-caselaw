@@ -1,0 +1,34 @@
+---
+court: "Colorado Supreme Court"
+decided: "1883"
+citations: ["4 Colo. L. Rep. 25"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLIFFORD v. MASON."]
+source_url: "https://static.case.law/colo-l-rep/4/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12122906
+---
+
+# Clifford v. Mason
+
+## Majority (Beck, C. J.)
+
+Beck, C. J.
+We discover no error in the proceedings of the District Court that would warrant us in reversing the judgment. The testimony shows that the wrongful acts complained of, by which the tenement and property of the plaintiff, Mason, was damaged and he thrown out of possession of his leased premises, were done under the orders of the defendant Clifford. We think the pleadings and testimony also show the entry and withholding of the premises by Clifford, substantially as alleged in the complaint.
+Defendant owned the lot adjoining the premises of the plaintiff, and had it excavated under his personal supervision in such a manner as to undermine and overturn the shooting gallery of the plaintiff into the excavation.
+It appears that the plaintiff was thrown out of possession of his parcel of ground on which his gallery stood, and of which he had a two years’ lease, and that a large building was erected thereon by the defendant, of which the defendant had possession at the time of the trial.
+The damages suffered by the plaintiff, in consequence of the wrongful acts of the defendant, were, the loss of his location for business, the damage done his building and fixtures, and the loss of time occasioned in finding another suitable location.
+The testimony shows that he had worked up a business which netted him $150 per month, and his rent was $25 per month. He was thrown out of business for two months, during which he was seeking another location, and when he finally secured one, it was not as favorable for his business, while his rent was much greater than at the other location. Defendant introduced no evidence in his behalf upon the trial. The jury were correctly instructed as to the law, and their finding was, “that the defendant unlawfully, wilfully and forcibly entered into and upon the premises described in the plaintiff’s complaint, and wrongfully and maliciously detained the same from the possession of the plaintiff, while the plaintiff was in the actual and peaceable possession of the same as alleged in said complaint.”
+They assessed the plaintiff’s damages at the sum of $263, which the Court trebled in the judgment, as provided by statute.
+In the motion filed by defendant’s attorneys for a new trial, they allege that neither the defendant nor his attorneys had knowledge of the cause being set for trial, and that the defendant was out of the county, on the day of the trial.
+In overruling this motion, the Judge gave his reasons therefor in writing, as provided by section 203 of the Code of Civil Procedure, and the same are incorporated in the bill of exceptions. From this it appears that the cause was regularly set# for trial in accordance with the rules and practice of the Court, about three weeks before the day assigned therefor, and that it was tried on the day assigned.
+If parties or their counsel neglect to attend the Courts, and to look after their cases, we are powerless to relieve them of the consequences of their negligence.
+Miller, Clough & Long, for plaintiff in error.
+J. P. Broclcway, for defendant in error.
+It was also stated that this was the second trial, the defendant being allowed to amend his answer on the first trial, after the plaintiff had introduced his evidence, which worked a continuance of the cause.
+The Court gave other reasons for denying the motion for a new trial, among which were the following, viz.:
+“The case was one for the jury to determine from the evidence, and the evidence tended to show that the defendant, by his employees, had entirely disregarded the plaintiff’s right to his possession of the premises. He not only excavated his own premises in such a manner that the plaintiff’s buildings were destroyed, but he seemed to ignore the plaintiff’s possession altogether, and actually entered into and occupied the strip of land which the plaintiff was peaceably possessed of, and on which he was carrying on business. The defendaút having thus dispossessed the plaintiff of his little place of business, built a large building right over it, and so entirely crowded the plaintiff out, and showed him no quarter or consideration whatever. Such was the tendency of the proof.”
+We are of opinion that the judgment ought to stand.
+Judgment affirmed.
