@@ -1,7 +1,8 @@
 ---
 court: "Colorado Supreme Court"
 decided: "1873-02"
-citations: ["2 Colo. 85", "2 Colo. 7"]
+decided_precision: "month"
+citations: ["2 Colo. 85"]
 reporter: "colo"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Liss v. Wilcoxen."]
 source_url: "https://static.case.law/colo/2/cases/0085-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 188922
-cites_cases: ["1 Col. 414", "1 Col. 44", "12 Stat. 174", "12 Stat. 700", "14 Minn. 358", "16 Stat. 279", "16 Stat. 96"]
+cites_cases: ["1 Col. 414", "14 Minn. 358"]
 ---
 
 # Liss v. Wilcoxen
