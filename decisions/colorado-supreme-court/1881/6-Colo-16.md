@@ -1,0 +1,40 @@
+---
+court: "Colorado Supreme Court"
+decided: "1881-12"
+citations: ["6 Colo. 16"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fisher v. Hervey."]
+source_url: "https://static.case.law/colo/6/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2589047
+cites_cases: ["15 Johns. 379", "30 Ia. 232"]
+---
+
+# Fisher v. Hervey
+
+## Majority (Beck, J.)
+
+Beck, J.
+The question presented by this appeal is whether a justice of the peace is authorized by the act of February 21, 1879, concerning garnishment, to issue garnishee process on a judgment rendered before the passage of that act.
+The territorial statutes authorized proceedings of this •character before justices of the peace and in courts of record; but in the enactment of the Code of Civil Procedure all were repealed, saving only the process of garnishment in attachment proceedings before courts of record.
+It is to be remarked, however, that the same provisions, ■substantially, which existed on this subject in the former statutes were re-enacted in 1879, being the session of the legislative assembly next succeeding their repeal.
+But the construction of the latter act, as now contended for, would deprive creditors, whose judgments were entered in the interim, or at anytime prior to the re-enactment, of this process for their collection. That such was the intention of the legislative assembly is highly improbable. When legislative bodies design to relieve debtors of the burdens of their debts, bankrupt laws and laws of limitation are passed for the purpose.
+Proceedings of the nature under consideration manifest a contrary intention. , They are passed in the interest of the creditor, and for the purpose of enabling him to reach, and appropriate to the satisfaction of his judgment, property and credits of the debtor in the hands of third persons.
+There is no reason why garnishee process under the last act should not issue upon a judgment entered in 1877, as well as upon one entered in 1879.
+The judgments remain in full force and effect in both cases, and. process of execution may issue in both for their collection. The act in question is a remedial act,, and should be liberally construed for the advancement of the remedy. Mr. Dwarris says: “Such a statute, it is universally held, is to be liberally construed, and that everything is to be done in advancement of the remedy that can be given consistently with any construction that can be put upon it.” Dwarris on Statutes, pp. 73, 74.
+“ Such construction,” it is said, “ ought to be put upon a statute as may best answer the intention which the makers had in view. And this intention is sometimes to-be collected from the cause or necessity of making the statute, and sometimes from other circumstances; and whenever such intention can be discovered, it ought to-be followed with reason and discretion in the construction of the statute, although such construction seem contrary to the letter of the statute. Where any words, are obscure or doubtful, the intention of the legislature is to be resorted to in order to find the meaning of the words. A thing which is within the intention of the-makers of a statute is as much within the statute as if it were within the letter.” 15 Johns. 379; Bac. Abr, Stat. I.
+The intention of the framers of the statute under consideration evidently was to restore the law of garnishment upon judgments at law as it existed prior to the-adoption of the Code of Civil Procedure. The only portion of the act indicative of a design to confine its operations to future judgments is the first clause of the first, section, commencing “Whenever a judgment shall be rendered by any court of record or any justice of the-peace,” etc.
+This phraseology is a literal copy of the first clause of sec. 38, ch. 48, R. S. 1868, which was the first section of the law of garnishment upon judgments at law in that revision.
+Neither the title of the act of 1879, nor the act as a whole, indicate an intention on the part of the legislature to confine its operation to judgments subsequently to be rendered. Had such an intention prevailed, it is but reasonable to suppose that it would have been definitely expressed; as for example, by such phraseology as: “Whenever a judgment shall hereafter be rendered by any court of record or any justice of the peace,” etc. The title of the act, as well as all parts thereof except the ■first line, are as applicable to judgments previously rendered as those of later entry.
+The title is, “ An act concerning garnishment in courts of record and before justices of the peace, on judgments rendered, and in relation to the proceedings and practice in garnishment.”
+The manifest intent of the legislature was to restore the law of garnishment, which had been improvidently repealed by the Code of Civil Procedure." This was the mischief to be remedied, and it is a canon of construction of a remedial statute, that courts must so construe the act as to suppress the mischief and advance the remedy. 1 Black. Com. 87.
+In Haskel v. The City of Burlington, 30 Ia. 232, the question considered was whether a statute authorizing cities and towns to sell lots for delinquent taxes applied to taxes delinquent at the time of the passage of the act, or only such taxes as might thereafter become delinquent. It was concéded that no such authority existed prior to the passage of this act. It was held that the mischief to be remedied applied with as much force to taxes then due as those to become due, and that it was not reasonable to suppose that when the attention of the legislature was directed to the subject that it only intended to remove the mischief in part, and to provide only partial relief. The court say further: “ To allow this statute to operate upon a delinquency existing 'at the time of its passage, and continuing till after it went into operation, neither violates any rule of construction, nor invades any principle of justice. The objection to retrospective statutes does not apply to remedial statutes which may be of a retrospective nature, provided they do not impair contracts or disturb absolute vested rights, and only go to confirm rights already existing, and in furtherance of the remedy, by curing defects and adding to the means of enforcing existing obligations; ” citing in support of the principle, 1 Kent, *356.
+The above principles are applicable to the case under consideration. Prior to 181% the statutes of the territory and state of Colorado authorized proceedings by garnishment as an additional means of enforcing the collection of judgments at law. During that year this remedy was improvidently repealed. The next legislature re-enacted the law. Is it reasonable to suppose that when the attention of the legislators was directed to the subject that they intended to remove the mischief previously done only in part, and to provide only partial relief i What reason could be assigned for exempting prior judgments from the operation of this statute ? Suppose the question suggested by Plowden to be asked the lawmaker: “Did you intend to comprehend this case,” does any one doubt that the answer would be in the affirmative ?
+The case comes clearly within the mischief intended to be remedied, hence it must have been intended to be within the remedy. Dwarris on Statutes, p. 233.
+The construction adopted does not render the statute in question retrospective within the meaning and prohibition of our state constitution.
+It does not take away or impair any vested right, create any new obligation, or impose any new duty upon Hervey, the defendant in execution. Parker’s judgment was in full force and effect when the garnishee process issued, and the estate of the appellee was liable to sale on execution for its satisfaction.
+No constitutional provision is therefore violated by the construction announced.
+The judgment is reversed and cause remanded.
+jReversed.
