@@ -1,0 +1,40 @@
+---
+court: "Colorado Supreme Court"
+decided: "1882-12"
+citations: ["3 Colo. L. Rep. 207", "6 Colo. 290"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LIPSCOMB et al. v. NICHOLS et al."]
+source_url: "https://static.case.law/colo-l-rep/3/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12128699
+cites_cases: ["1 Col. 586", "12 Nev. 398", "12 Nev., 398", "2 Johns. Ch. 405", "21 Cal. 93", "21 Cal., 93", "30 Cal. 190", "30 Cal., 490", "38 Cal. 193", "38 Cal., 193", "4 Colo., 586"]
+---
+
+# Lipscomb v. Nichols
+
+## Majority (Stone, J.)
+
+Stone, J.
+The complaint sets out that the plaintiffs in 1880 were prospecting for coal upon certain of the public lands described, and had expended labor and money thereon, and in preparing to secure title thereto; that afterwards they entered into a verbal contract with defendant Nichols, whereby it was agreed that said plaintiffs and Nichols should develop the said coal land, and procure title to the same, for their joint benefit; that each should be entitled to an undivided one-third interest in the land thus acquired; that Nichols should do all the labor of opening and developing the coal necessary for securing title thereto, at his own expense; that plaintiffs were to render all the services necessary in and about the business of procuring.title thereto, at their own expense; that each of the parties should pay one-third of the cost of filing on the land and the expense of procuring title in the land office ; that the filing should be in the name of Nichols, who should receive and hold the title in trust for the plaintiffs, together with his own interest therein; and that, when the title was thus secured, that he should convey to the plaintiffs the respective interests to which they were entitled, as aforesaid; that, in pursuance of said agreement, the necessary steps were taken and the filing made on the 26th day of August, 1880; that plaintiffs have fully performed all their parts of the agreement and paid their share of the costs and expense of procuring the title to the said land; but that defendant Nichols has refused to make the conveyances as agreed; and that afterwards one Jacob Fleischer, one of the defendants, acting for himself and also on behalf of one Loeckheim, having at the time actual notice and full knowledge of all the rights of the plaintiffs in the premises, fraudulently conspired with the said Nichols, and * agreed with him that he should convey two-thirds of said land to the said Fleischer and Loeckheim; and that, in pursuance of said fraudulent agreement, the said Nichols executed and delivered to said Fleischer a deed conveying to said Loeckheim two-thirds of the said land; and that said Fleischer, as agent for said Loeckheim, and with notice as aforesaid, procured and received said conveyance, for the joint interest and benefit of himself and his principal, the said Loeckheim.
+Complainants further charge said Nichols with fraudulent intent and bad faith in entering into said agreement with plaintiffs, and in refusing to perform the conditions on his part, and pray that the conveyance aforesaid be decreed null, and said defendants be required to convey to plaintiffs the interest to which they are entitled in the premises, and for full relief, etc.
+To this bill of complaint the defendants demurred, on the ground, that it does not state facts sufficient to constitute a cause of action; that, first, the verbal contract set out is void under the statute of frauds; and second, because the contract is in violation of the act of Congress providing for the entry of coal lands, and the rules and regulations of the Commissioner of the General Land Office, made in pursuance of said act.
+The demurrer was sustained, the bill dismissed, and the assignment of error is based upon the sustaining of said demurrer. The questions thus raised are as to the sufficiency of the bill for the relief sought.
+That the Court erred is, we think, beyond question.
+The rule is well settled that, when land is purchased, for which one party pays the consideration, and another party takes the title, a resulting trust immediately arises in favor of the party paying the consideration, and the other part}:' becomes his trustee; and it is equally well settled, that where the one party pays only a part of the consideration, the party taking the title to the whole land becomes a trustee for the other party pro tanto. Case v. Codding, 38 Cal., 193; 2 Story’s Eq. Juris., Sec. 1201; Browne Stat. Frauds, Sec. 84.
+And parol evidence is admissible to show such trust. Botsford v. Burr, 2 John. Ch., 405; Hidden v. Jordan, 21 Cal., 93; Knox v. McFarran, 4 Colo., 586.
+So, too, where there has been part performance of a verbal contract, which, by the statute of frauds, is required to be in writing, the contract is enforceable in ecpiity, where otherwise the statute of frauds would itself operate to protect fraud. Browne Stat. Fr., Sec. 445, a.
+Equity will at all times lend its aid to defeat a fraud, notwithstanding the statute of frauds. (Browne on Stat. Fr., Sec. 438.) For the statute, which was designed to prevent frauds, will not be allowed to be made a means of perpetrating fraud. The principle on which the Court proceeds in such cases is this:
+“That even an act of Parliament shall not be used as an instrument of fraud; and if, in the machinery of perpetrating a fraud, an act of Parliament intervenes, the Court of equity, it is true, does not set aside the act of Parliament, but it fasteps on the individual who gets a title under that act of Parliament, and imposes upon him a personal obligation, because he applies the act as an instrument for accomplishing a fraud.” Lester v. Foxcroft, 1 Lead. Cas. Eq., 1030; 1 Story’s Eq. Juris., Sec. 767; Evans v. Lee, 12 Nev., 398; Settembre v. Putnam, 30 Cal., 490.
+This doctrine is so clearly established, that it is unnecessary to multiply authorities in its support.
+Browne & [Putnam, for appellants.
+Moreover, in cases of part performance, our own statute of frauds declares that the act shall not be construed to abridge the power of Courts of equity to compel specific performance in such cases. Gen. Laws, Sec. 1260.
+And this is the general doctrine in equity. Lester v. Foxcroft, 1 Lead. Cas. in Eq., 1037; Browne Stat. Fr., Sec. 451.
+The bill in this case clearly states a resulting trust in favor of the plaintiffs, arising from the taking of the title in the name of Nichols, under the agreement set out, and also shows a part performance of such agreement.
+As to the other point made in the demurrer, that the contract was in violation of the act of Congress providing for the entry of coal lands, we fail to find it supported by the act referred to. Had this agreement been made respecting the entry of agricultural lands, this point in the demurrer would not have been without force; but the act relating to the entry and purchase of coal lands on the public domain, contained in the chapter of the Revised Statutes of the United States concerning mines and mineral lands, is wholly unlike the laws governing the entry and acquisition of title by 'occupants of agricultural lands. This will be seen by a reference to the act itself, without our quoting it here or discussing its provisions.
+As to the specific relief asked by the prayer of the bill, it is not called in question by the demurrer, and hence we are not called upon to notice this feature of the bill.
+The general ground of the demurrer is, that “ the bill does not state sufficient facts to constitute a cause of action.”
+The specific grounds we have sufficiently noticed, and it is clear that the bill sets out sufficient to show a cause of action such as to entitle the plaintiffs to certain relief, and the Court below can decree such relief as the equities of the case warrant, under the general prayer of the bill, if the specific relief prayed for be not proper.
+The demurrer was improperly sustained, and the judgment will therefore be reversed.
+Judgment reversed.
