@@ -1,0 +1,26 @@
+---
+court: "Colorado Supreme Court"
+decided: "1877-12"
+citations: ["4 Colo. 14"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wyatt v. Freeman."]
+source_url: "https://static.case.law/colo/4/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5288933
+cites_cases: ["2 Col. 287", "2 Col. 551", "2 Johns. 47", "2 Pick. 413", "22 Ill. 216", "3 Col. 337", "4 Scam. 418"]
+---
+
+# Wyatt v. Freeman
+
+## Majority (Thatcher, C. J.)
+
+Thatcher, C. J.
+This is an action in replevin, brought by the appellee against the appellant, before a justice of the peace, to recover one light spring wagon. Judgment was rendered for the plaintiff, “no appearance being made by the defendant.” The defendant appealed to the county court, where a trial was had to the court without the intervention of a jury, and judgment was rendered in favor of the plaintiff, from which the defendant appeals to this court.
+It is assigned for error that the court overruled the defendant’s motion to dismiss the suit at plaintiff’s costs and award writ of retorno hdbendo, because of the non-compliance with the statute by the justice in issuing the writ of replevin, and the coroner in executing said writ and delivering property to the plaintiff. This motion was made for the first time in the county court, after the defendant’s full appearance in the action. Although he failed to appear before the justice of the peace, by filing his appeal bond he thereby entered his appearance in the appellate court. E. S., § 46, p. 407; Swingley v. Haynes, 22 Ill. 216; McCutchin v. O. and M. R. R. Co., 27 id. 11.
+There is no authority in the statute that would warrant the officer in turning over the property seized by virtue of the writ of replevin to the plaintiff, until the lapse of three days after the day of service, and then only in the event that the defendant fails to give bond. Session Laws of 1876, p. 116. But the justice, nevertheless, had jurisdiction of the cause, jand did not err in refusing to dismiss the writ. Had the defendant appeared before the justice of the peace and moved the court that the property seized might be restored to him, upon- executing the statutory bond, the motion should have been allowed. This would have been proper practice. Parlin v. Austin and Robinson v. Austin (3 Col. 337, 375), decided at the April term.
+When the plaintiff rested, the defendant moved for a non-suit, on the ground that plaintiff had not proved demand before suit brought. The court denied the motion and permitted the plaintiff to prove demand. ' This is assigned for error. Section 3, Session Laws 1872, p. 99, provides: “Where the plaintiff has produced his evidence and rests his case, the court may, on application of the defendant, if of opinion that the evidence produced will not support a verdict, nonsuit the plaintiff.” This section is not mandatory to such an extent that it inhibits the court, upon such motion, from permitting other evidence to be introduced in support of the plaintiff’s cause of action. The admission of such further testimony rests in the sound discretion of the court, and may not be assigned for error. Sellar v. Clelland, 2 Col. 551.
+There is an irreconcilable conflict in the evidence, and although in our opinion, considering all the testimony detailed at the trial, there is strong reason for believing that Freeman was not a bona fide purchaser, that Pinneo was acting in the alleged purchase in his own behalf, and not in behalf of Freeman, yet we are reluctantly constrained to let the finding of the court below stand, as it is not unsupported by the evidence, although against its weight, if the court considered the evidence calculated to impeach the bona fides of the transfer. Evidence of that character, however, the court had the right, and it was its duty, in our view of the law, to disregard. The officer justified under an execution issued against Pinneo. The writ was introduced in evidence. Had the plaintiff not been a stranger to the execution or the judgment upon which it was based, this would have been sufficient. But here the sheriff seeks to attack, on the ground of fraud, the title of the plaintiff who was a stranger to the action in which the execution issued. To authorize the sheriff to contest the title on this ground it must be proved by the sheriff, who is but the agent of the creditor, that there existed an unsatisfied judgment. Having failed to produce a copy of the judgment, he was in no position to assail the plaintiff’s title for fraud. McCraw v. Welch, 2 Col. 287 ; 9 Bacon’s Abridgment, 495, title Trespass, letter G; Lake v. Billers, 1 Lord Raymond, 733 ; Damon v. Bryant, 2 Pick. 413; High v. Wilson, 2 Johns. 47; Jackson v. Hasbrouck, 12 id. 213; Jackson v. Hobson, 4 Scam. 418. The court was, therefore, warranted in its disregard of the evidence tending to impeach plaintiff’s title, the defendant having failed to produce the judgment. If the rule laid down in Deitsch v. Wiggins, 15 Wall. (U. S. Sup. Ct.) 546, is variant from this doctrine, we do not feel bound to follow it, as this cause was tried after the admission of Colorado into the Union.
+The judgment of the lower court must be
+Affirmed.
