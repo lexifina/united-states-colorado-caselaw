@@ -1,0 +1,45 @@
+---
+court: "Colorado Supreme Court"
+decided: "1881-12"
+citations: ["2 Colo. L. Rep. 282"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LeFEVRE v. CASTAQUO."]
+source_url: "https://static.case.law/colo-l-rep/2/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12131046
+cites_cases: ["24 Howard, 537", "28 Ohio St., 319", "76 N. Y., 55"]
+---
+
+# LeFevre v. Castaquo
+
+## Majority (Elbert, C. J..)
+
+Elbert, C. J..
+This was an action brought by the appellee against the appellant and one Maffett, seeking to charge them as partners.
+Maffett and appellant denied the partnership.
+The written agreement between appellant and Maffett did not in our opinion constitute them partners either inter se, or as to third parties.
+From the recitals of the agreement it is clear the parties themselves did not contemplate a partnership.
+Maffett had sometime prior thereto leased the “Yankee Boy” mine for the purpose of working it, but was without the necessary means to work it to advantage.
+For the purpose of enabling Maffett to work his mine, the appellant agreed (upon the terms set forth) to furnish him with money or supplies to the amount of twenty-two hundred dollars.
+In consideration of these advances, Maffett agreed to pay LeFevre one-fifth of all the profits derived from working the mine during the term of the lease.
+To secure LeFevre in his advances, Maffett further agreed to deliver to him all ores taken out of the mine on the dump, until LeFevre should be repaid all his advances.
+This is the substance of the agreement, and is the common case of a merchant or other person making advances of money or goods, or both, to enable a miner to work his mine.
+LeFevre had no interest in the lease nor any control over the working of the mine. Limitedly he controlled the ores mined, but only for the purposes of securing his advances.
+It is insisted, however, that sharing in the profits made him, as matter of law, a partner as to third persons.
+Interest in profits does not necessarily make a person a partner, or liable as a partner. Parsons, 67.
+To have that effect it must be, as the books express it, an interest in profits as profits. A proprietary interest, or, as Mr.. Justice Clifford says, in Buthold v. Goldsmith, 24 Howard, 537, “ihe party must be in some way interested in the profits as principal,” or, as expressed in Harvey v. Childs, 28 Ohio St., 319, “the evidence must show that the persons taking the profits shared them as principals in a joint business in which each has an express or implied authority to bind the other.”
+Where a person is only interested in the profits of a business as a means of compensation, he is not a partner. In such case his interest is not a property in the profits as such, but a claim against them as a fund, out of which, when ascertained, he is to •be compensated.
+Mr. Parsons says: “A mere payment or promise to pay out of the profits a sum of money as a specific proportion of the profits, does not necessarily constitute the payor a partner, and gives him no interest in the profits and no right to the profits, but only a personal claim against the promisor for such money or for such a share of profits, after they are ascertained, and may be divided. * * * The words which the parties use, and all of them, and all the parts and provisions of their agreement, as well as its general character and their relation to each other, are to be looked at, and, if the whole evidence leads to the conclusion that the receiver of money took it in good faith, only as wages or specific compensation or payment, and did not intend to acquire any interest in or any control over the business, or in the profits as they accrue, and before they are ascertained and divided, but only after they were ascertained to find in them the fund, and in their amount the measure of his payment, he is no partner nor liable as such.” Par. Con., 71 and notes.
+Again he says, after reviewing all the leading authorities upon this subject: “On the other hand, we think that, notwithstanding dicía of immense weight apparently to the contrary, the cases show that there are but two grounds upon which a man can be liable as partner to third parties, and that is, if a man has not been held out as a partner, he can be chargeable as such only when he holds that relation to profits which we believe to be the ultimate test of partnership, both inter se and as to third parties—that is, unless he has some ownership in or of the profits as they accrue, and are not yet ascertained and divided into portions.” Par. Con. 71*, note /.
+In Richardson v. Hugitt, 76 N. Y., 55, the Court, in speaking of the profit test, says: “And here comes another exception to the rule last stated, which is, that when the person has no interest in the capital or business, and is to be remunerated for his services by a compensation from the profits, or measured by the profits, or what is to depend, as in case of seamen or other voyagers, upon the result, it has no application. Where, then, one is only interested in the profits of a business as a means of compensation, he is not a partner.”
+The agreement in question, while it stipulates that the appellant is to be paid one-fifth of the profits, falls clearly within the exceptions to the rule, that interest in profits involves liability as a partner. Its leading recitals and terms show its true character to be a mere contract to advance money or supplies, not as an owner, but as a creditor, relying on the ores to repay his advances, and on the profits as a fund for a compensation in lieu of interests.
+The Court below correctly instructed the jury as to the true character of the agreement, but left it to the jury to find whether the appellant had held himself out as a partner in such a matter as to render him liable. There was substantially no evidence to support this theory of the case. On the contrary, it appears that appellant lived and did business in another county, and from the date of the agrément between Maffett and the appellant, in October, 1877, until about the 10th of July following, when the mine was closed, the appellant never visited the mine, nor does he appear to have executed a single act of control in its management.
+M. B. Gerry and Wm. Story, for appellant.
+J. W. Mills, for appellee.
+When, in July, the disorder of Maffett’s affairs demanded his presence at the mine, he found it closed and the appellee and other workmen in possession of and guarding the ores which they had attached for their wages. The agreement which was then entered into by the appellant and appellee and the other workmen in regard to the disposition of the ores for their common benefit, affords a strong presumption that at and prior to that date the appellant had not been thought of as a partner. In this agreement he is scheduled as a creditor entitled to share the proceeds arising from a sale of the ores, and Maffett alone is mentioned as the debtor.
+There is nothing to rebut the presumption afforded by this agreement.
+The testimony touching the declarations of Perdue- was of declarations touching payment and not partnership, and if anything, was an undertaking to pay the debt of a third person. This testimony, however, was not competent, as Perdue’s agency for any such purpose was not established. The Court erred in admitting it.
+A careful examination of the record shows no evidence to support the verdict of the jury, and Court below should have granted the motion for a new trial.
+The judgment is reversed and the cause remanded.
