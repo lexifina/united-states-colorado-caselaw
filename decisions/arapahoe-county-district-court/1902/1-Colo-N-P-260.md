@@ -2,7 +2,7 @@
 court: "Arapahoe County District Court"
 docket: "33673"
 decided: "1902-02-27"
-citations: ["1 Colo. N. P. 260", "1 Colo. N. P. 270"]
+citations: ["1 Colo. N. P. 260"]
 reporter: "colo-n-p"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
