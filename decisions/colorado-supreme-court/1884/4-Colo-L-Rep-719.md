@@ -1,0 +1,46 @@
+---
+court: "Colorado Supreme Court"
+decided: "1884-05-02"
+citations: ["4 Colo. L. Rep. 719"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE ex rel. BERNARD et al. v. CHEESEMAN et al."]
+source_url: "https://static.case.law/colo-l-rep/4/cases/0719-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12144003
+cites_cases: ["19 Ill., 319"]
+---
+
+# People ex rel. Bernard v. Cheeseman
+
+## Majority (Helm, J.)
+
+Helm, J.
+Relators, in the name of the people, seek, by an action in the nature of a quo warranto, to directly challenge the corporate existence of “The Union Depot and Railroad Company.” Their theory is, that respondents, under that name, wrongfully usurped the privileges and franchises of a corporation; that respondents’ attempted organization of the company was void ab initio, by reason of a failure to comply with the precedent requirements of our general incorporation act.
+The action is brought under chapter twenty-eight of the Code of 1883. It is somewhat doubtful if relators are in position to maintain the same in the name of the people or otherwise, giving the Code provisions the interpretation most favorable to them. But we prefer to base our determination of this proceeding in error upon other grounds.
+Some doubt seems to exist in the minds of counsel as to the purposes for which the corporation was attempted to b& organized ; this uncertainty grows out of the language used in the articles of incorporation. Respondents therein declare their intention to create a company “for the purpose of locating, building, owning and maintaining a union depot for railroads in the city of Denver, Arapahoe county, in said State; and for the location, building, owning and maintaining as many different lines of railroad from said depot to the exterior boundaries of the city of Denver, as may be necessary for the accommodation and use of the different railroad companies making said city a point of delivery for freight and passengers.”
+Does this language indicate an attempt to create an ordinary railroad company under our laws ? (Sec. 333 et seq., General Statutes.) We think not.
+The primary and principal design evidently was to build and maintain a union depot. Various lines of railroad extended to the city ; they came in from different directions, and discharged freight and passengers at different points; to successfully “ maintain ” a union depot, and thereby accomplish the purpose of the enterprise, it was of course necessary to connect the same with the several termini of the roads within the city. Incidental therefore, to the main adventure, was the construction and keeping in repair of lines of track to make these connections. Had the articles of incorporation announced a purpose to build and maintain a union depot, and connect the same by lines of track with the different railroads centering in Denver, the same intention would, in our judgment, have been expressed, and the same end attained. The language of the articles expressly excludes the idea that the union depot company intended to operate the “ lines of railroad ” they constructed ; for these lines were to be built and maintained “ for the accommodation and use of the different railroads,” etc. It is safe to say that the Legislature, in the portion of the incorporation act above mentioned, were not providing for such incidental aids to another enterprise as this. And it is also a fair conclusion from the language used, and the evident purpose expressed in the articles of incorporation, that respondents liad no intention of engaging in the business of constructing or operating a railroad under said statutes.
+It is true that the word railroad is used in the corporate name, and the term of existence is fixed at fifty years; it is also true that by the substituted articles of incorporation the number of incorporators was increased from four to five. These facts would cast some doubt upon the subject if there was room for uncertainty. But, as above indicated, we think there is no ground for reasonable doubt as to what respondents’ purposes really were; and it is unnecessary for us to speculate upon their reasons for preparing the articles of incorporation in the manner they did.
+The conclusion that they were not attempting to engage in a railroad enterprise, disposes of many of the objections presented by relators; it also greatly simplifies our consideration of the remaining questions.
+An attempt was made by respondents to organize an ordinary private corporation for a lawful purpose, under our statutes, authorizing the same; did they succeed ?
+As already suggested, the grounds of attack relied upon In this case are errors in the attempt to comply with the specific requirements of the statute in creating the corporation. No effort is made to have a forfeiture of its franchises declared on account of acts or omissions occurring subsequent to its organization.
+We have no doubt but that in this State a substantial compliance with the provisions of the general law, is an essential prerequisite to the creation of a private corporation; and that a failure to comply therewith in any material particular, is ground for the impeachment of corporate existence, in an appropriate proceeding prosecuted by the proper authority.
+Twelve different alleged defects are named, and discussed at length in the briefs; many of these, however, are already disposed of, and we only deem it important to consider two of the remainder.
+First—Was the fact that the articles of incorporation provide for an existence of fifty years, fatal ?
+Section 238 of the General Statutes requires that these articles shall state, among other things, “ the term of existence, not to exceed twenty years.”
+The defect here suggested is not an omission to insert something required. Respondents comply with the statute by declaring the term of existence; as to the length of this term, they ask more than the law allows; in the face of a restriction to twenty years, they assume the right to act for fifty. This statutory provision as to time, may, we think, properly be regarded as a limitation. And we are of opinion that the irregularity is not such a non-compliance with law as operates to prevent the corporation from coming into existence. It cannot, without renewal, live for fifty-years, but, so far as this objection is concerned, it may exercise the rights and privileges of a corporation, in carrying on the business intended, for the period of twenty years.
+Second—Was there a fatal defect in the certificate of acknowledgment of the articles of incorporation ?
+This certificate is as follows, to wit:
+“State of Colorado, Arapahoe County, ss.
+“I, William B. Tebbets, a notary public within and for the County of Arapahoe and State of Colorado, do hereby certify that on the 24th day of November, A. D., 1879, personally appeared before me the persons whose names are signed to the foregoing articles of association, namely: Walter S. Cheese-man, Bela M. Hughes, D. C. Dodge, A. A. Egbert and J. F. Welborn, and they each of them acknowledged that they had signed the foregoing articles of association for the purposes therein set forth. In testimony whereof I have hereunto set my hand and affixed my official seal this the day and year aforesaid. William B. Tebbets,
+[seal] Notary Public.”
+The specific objection to this certificate is, that it is not stated therein that “the individuals who acknowledged the same were personally known to the officer who took the acknowledgment, or proven to him to be the persons who executed the certificate.”
+Were this omission in the certificate of an acknowledgment to a deed conveying real estate, we might be constrained to hold such certificate defective; such is the conclusion reached under a statute identical with ours, section 212, which provides for the acknowledgment of instruments relating to realty. Shepherd v. Coniel, 19 Ill., 319.
+But the statute under which the certificate of acknowledgment to these articles of incorporation was made, contain no such specific requirement as said section 212; it simply declares that the acknowledgment shall be “ before some officer authorized to take the acknowledgment of deeds;" the declaration that the same officer shall officiate, does not, necessarily, imply that he must certify to precisely the same matters in both instances.
+W. A. Hardenbroolc, R. J. Page, for plaintiffs in error.
+Geo. M. Dunn, Teller & Orahood, B. M. & C. J. Hughes, for defendants in error.
+The provision requiring the officer to state that the individual subscribing, and the one acknowledging, are personally known by him to be identical, was inserted for the purpose of preventing one individual from personating another in the execution of instruments relating to real estate.
+As will be observed, the notary public certifies that the persons whose names are signed to the articles of incorporation under consideration, personally appeared before him. In early times this would have been ample in the certificate to an acknowledgment of a deed to reality; and we are satisfied that it is a sufficient compliance with the incorporation statute upon the subject.
+The judgment of the District Court will be affirmed.
