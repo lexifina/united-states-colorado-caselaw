@@ -1,0 +1,33 @@
+---
+court: "Colorado Supreme Court"
+decided: "1884-02"
+citations: ["4 Colo. L. Rep. 468"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BEAN, Clerk v. PEOPLE, Ex Rel."]
+source_url: "https://static.case.law/colo-l-rep/4/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12139139
+---
+
+# Bean v. People
+
+## Majority (Helm, J.)
+
+Helm, J.
+The principal question presented by the record in this case is one of statutory construction purely. Section 667 of the General Statutes provides that the county clerk shall keep his office “open during the usual business hours, Sundays and legal holidays excepted, and that (all) books and papers required to be in his office shall be open for the examination of any person.”
+The cardinal rule of statutory construction is to discover and declare the intent of the law-makers.
+Counsel for defendants in error contend that the section above mentioned needs and will admit of no construction. That the words “any person” used therein include each and every individual who may choose to demand an inspection of the county records. But we are not prepared to accept their conclusion. We feel confident that an examination of the statute is proper, with the view of determining whether the Legislature intended to grant the privilege here claimed.
+Relators in this case assert the right, under the law, to examine and abstract the entire records of Gunnison county for the sole purpose of securing future private emolument from the sale of abstracts thus obtained; they do not seek information concerning a tract of land in which they themselves, or parties whom they represent, have or expect to have an interest.
+Their business is permanent. To carry it on successfully they must not only by themselves or agents occupy the clerk’s office for weeks, perhaps months, in abstracting the instruments now recorded, but they must also be there daily thereafter abstracting the conveyances filed from day to day. Their interruption and annoyance of the clerk are not temporary; they are continuing and permanent.
+It matters not that the relators require no aid from him, for he is charged by statute with the safe keeping and preservation of the records, and is responsible for their truthfulness and freedom from mutilation. A single stroke of the pen, the erasure or addition of a single word may change the character of a conveyance or destroy the most valuable property right.
+The clerk is unfaithful to his trust if he allow one of the record books to remain for an instant in the hands of a stranger out of his sight. If he performs his whole duty he must watch, or employ an assistant to watch, each and every person who examines or extracts a single title record. Did the Legislature contemplate a business such as that of relator’s and intend to impose upon the clerk these duties and responsibilities in connection therewith? Did they intend to say to him, “You must give relators, gratis, a part of your time and attention on each and every week day during your term of office?” If one person or partnership may subject him to this inconvenience, labor and annoyance, others may do the same; the abstract business is lawful, and in populous counties usnally quite a number of individuals or firms engage therein. The clerk’s entire time might be monopolized in this way, and yet he is allowed no compensation therefor.
+Our laws require the county commissioners to provide, at the expense of the county, an office for the recorder, to light and heat the same; and to furnish tables, chairs and all necessary appliances for the convenience and use of the recorder and persons transacting therein the business contemplated by the statute. Did the Legislature intend to furnish at public expense, office and desk room, together with tables and chairs, for the permanent use and convenience of persons engaged in a purely private and speculative enterprise?
+It is urged that this business is a great public convenience and security. The parties interested may more readily, and perhaps cheaply, procure desired information and abstracts; and that in case of loss thereof by theft or fire, any portion of the records may be duplicated from the abstract office. It is answered that the clerk is required to furnish abstracts and information to those desiring the same, at a compensation fixed by legislative enactment; and that it is the duty of the commissioners to provide safes and vaults sufficient to protect the records from loss and injury by fire or burglary; and it may also be added that the possession of complete abstracts by dishonest and evil-minded persons, might increase the danger to the public records by offering an inducement for their destruction.
+Geo. Simmons and S. P. Rose, for plaintiff in error.
+Mills Bros, and Louis Boisot, for defendant in error.
+We think that the business of relators should be treated as any other legitimate private enterprise; there is no law to prevent the clerk’s aiding relators, if he choses so to do, either gratis or for a stipulated compensation, provided he does not neglect his official duties. But the Courts should not by mandamus compel him to do this against his will.
+We are of the opinion that the statute in question was not designed to allow individuals who wish to abstract the entire records for future use in their private business, to use continuously the public property, and to monopolize from day to day, for months and years, a portion of the time and attention of a public officer, against his will and without recompense.
+In support of the foregoing reasons and conclusions see Buck et al. v. Collins, 51 Georgia, 391; Weber et al. v. Townley, 43 Michigan, 534.
+Entertaining these views upon the merits of this case, we need not inquire into the regularity of the proceedings before the District Judge. The judgment will be reversed and the cause remanded, with directions to dismiss the petition.
