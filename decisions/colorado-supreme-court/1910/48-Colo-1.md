@@ -1,0 +1,26 @@
+---
+court: "Colorado Supreme Court"
+docket: "5811"
+decided: "1910-04"
+citations: ["48 Colo. 1"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Buffington v. The Sussex Real Estate and Investment Company."]
+source_url: "https://static.case.law/colo/48/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620589
+cites_cases: ["12 Colo. 341"]
+---
+
+# Buffington v. Sussex Real Estate & Investment Co.
+
+## Majority (Mr. Justice Musser)
+
+On Rehearing.
+Mr. Justice Musser
+delivered the opinion of the court:
+This 'action was brought by the appellee against the appellant to recover one month’s rent for certain premises. The defendant admitted the occupancy and set up a counter-claim, claiming that at the time she leased the premises, the plaintiff agreed to make repairs, which it failed to do, whereby she was damaged. At the close of defendant’s case, the court directed a judgment of nonsuit against the defendant on her counter-claim, and a verdict for plaintiff as prayed in its complaint. It is conceded that if there is testimony to show that at the time the premises were leased to defendant, the plaintiff, as a part of the agreement of lease, agreed to make repairs, and failed to do so, to the injury of defendant, the court ought not to have nonsuited defendant, nor directed a verdict. While the testimony of defendant is not as clear as it might be, a reasonable conclusion that can be drawn from it is, that on March 7th, she went into the house to take possession of the furniture therein, which was owned by the then tenants and upon which she held a mortgage. At the time, she had no contract with the owner of the premises. Immediately after she went into possession, the agents of plaintiff came to the house, and a contract was then made, wherein the plaintiff agreed to make repairs and to let the house to defendant at a certain rental, and the defendant agreed to take the house and pay the stipulated rent, and a few days thereafter she paid the rent for the first month. It is true that an officer of the company, whose deposition was introduced by. the defendant, testified that a conversation took place before' March 7th between the defendant and three officers of the company, wherein it appeared that the defendant wanted to rent the premises, and the plaintiff’s agent said she could have it at a certain rental, and wherein it was said that after a time, probably two months in the future, the house was to be papered. However, this conversation, as related by the witness, does not make it clearly appear -that the defendant actually rented the house at that time. The conversation, as set out in the record, has more the appearance of a statement of terms upon which the house would be rented, than a finished contract. It does not appear that the defendant said she would take the house upon the terms offered. From the testimony, it is fair to conclude that the conversation was more a negotiation with reference to a lease than a contract of lease. It is apparent that the court, looking at the evidence in the most favorable light for the defendant in which a jury would be at liberty to view it, would be bound to say that there is evidence which would justify a verdict for her. It was said in Schwenke v. The Union D. & R. Co., 12 Colo. 341, that to sustain a motion for a nonsuit “the court, looking at the evidence in the most favorable light for the plaintiff in which the jury would be at liberty to view it, must be able to say that there is no evidence which would justify a verdict for him.”
+On tbe whole, therefore, tbe record shows sufficient evidence for tbe defendant that as a part of tbe contract of lease tbe plaintiff agreed to repair, to require rebuttal from tbe plaintiff. We must, therefore, adhere to our former conclusion that this judgment should be reversed and the nonsuit and verdict set aside. ■
+The judgment is reversed and the cause remanded, with instructions to set aside the nonsuit and verdict and to proceed with the action in accordance with law. Reversed and remanded.
+Chief Justice Steele and Mr. Justice White concur.
