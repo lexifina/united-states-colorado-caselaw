@@ -1,7 +1,8 @@
 ---
 court: "Colorado Supreme Court"
 decided: "1867-07"
-citations: ["1 Colo. 81", "1 Colo. 82"]
+decided_precision: "month"
+citations: ["1 Colo. 81"]
 reporter: "colo"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
