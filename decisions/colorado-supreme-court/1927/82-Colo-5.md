@@ -1,0 +1,35 @@
+---
+court: "Colorado Supreme Court"
+docket: "11,854"
+decided: "1927-05-31"
+citations: ["82 Colo. 5"]
+reporter: "colo"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wehrkamp, et al. v. Burnett."]
+source_url: "https://static.case.law/colo/82/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5337299
+cites_cases: ["120 Ore. 38", "136 Pac. 1175", "201 Pac. 1116", "219 Ill. 391", "42 Colo. 60", "51 L. R. A. (N. S.) 927", "56 Colo. 77", "70 Colo. 384", "76 N. E. 577", "94 Pac. 312"]
+---
+
+# Wehrkamp v. Burnett
+
+## Majority (Mr. Justice Denison)
+
+Mr. Justice Denison
+delivered the opinion of the court.
+The plaintiffs in error contested the will of Henry Greiner, were defeated and bring error, move for. supersedeas and request final decision on the motion. The court directed a verdict for proponents.
+The claim is made that the will is not shown to have been properly executed because it does not appear that the testator declared it to be his will or requested the witnesses to subscribe it as such. It appears, however, that the will was drawn at his request and written by a stenographer in his presence, and was then and there in the "hearing of the witnesses read over to him with care, received his approval and thereupon there was a short discussion as to who should sign as witnesses and one Buckles, who had drawn the will, and one Kinkade, both of whom had been present during the whole transaction, were agreed upon; then Greiner signed it in their presence and they in his. This evidence was undisputed. There can be no question that this amounted to a declaration that it was his will and a request to the witnesses to act as such. 40 Cyc. 1115. Kinkade was a devisee but surrendered his devise. There was nothing, then, for the jury on this question.
+It is objected that there is not the usual statement of attestation by the witnesses, but such statement is merely a memorandum of facts which, if they exist without it, are sufficient, and is perhaps prima facie evidence, but no more. In re Barry, 219 Ill. 391, 76 N. E. 577.
+It is claimed that there is evidence that Kinkade exercised undue influence over the testator, but we do not find any. Greiner sought his advice and asked him to write a will and he did so, writing what Greiner directed. Kinkade advised seeing a lawyer and they went together to Glenwood Springs, and Kinkade took him to Buckles who drew the will in question which was, with one unimportant addition, a copy of the first. Six days later Greiner committed suicide. This evidence shows no more than a suspicion that Kinkade used any influence with reference to the will and shows nothing to indicate that the volition of the testator was overcome or that anything was done to overcome it. Snodgrass v. Smith, 42 Colo. 60, 94 Pac. 312, 15 Ann. Cas. 548; In re Riggs, 120 Ore. 38, 250 Pac. 753; In re Estate of Carey, 56 Colo. 77, 136 Pac. 1175, 51 L. R. A. (N. S.) 927, Ann. Cas. 1915B, 951.
+The remaining question is concerning testator’s mental capacity. Buckles, Kinkade and Mrs. Shores, the stenographer who wrote the mil, testified that he was of sound mind. He managed his own business and had accumulated considerable property, owned eight or nine houses and more than forty lots in Newcastle. He was a bachelor and lived alone, eating, however, frequently at the homes of his friends, including Kinkade and the witness Burnett. Evidently.he was not a man whom his acquaintances considered insane or they would have had him committed.
+The evidence that he liad not a disposing mind is as follows: (1) Burnett, defendant in error, his friend and neighbor, says that he was sick, complained of rheumatism and pounding of heart; feared sudden death on account of these troubles and was unduly worried over comparatively small business matters, talked much about these things. Burnett describes his behavior on certain occasions, illustrating the above. All of his conversation was intelligent, however, and so was his management of his business. On the night of his death he left his papers and some cash in unlocked boxes on Burnett’s back porch. (2) One Crawford, a general job man, in the town of Newcastle where Greiner lived, worked for him and attended to his insurance and did most of the wiring of his houses. Greiner directed the wiring, but frequently changed his mind. On the last building he changed his mind whether to have it done or not several times in one week. The witness does not know why he changed his mind. That was the last week of his life. The night before he died he acted “very wild.” His eyes “land of seemed to pop out of his head and he looked wild.” On cross-examination: “never saw him look that way before.”
+One Mattivi, a mechanic, a tenant of testator, was offered the house he rented for $700, then for less sums, till, on the evening before his death, testator agreed to take $350 for it and to come down the next morning and close the deal. On cross-examination, didn’t notice he was wild or that his eyes bulged out. Three hundred and fifty dollars was about the value of the house.
+Doppelmeyer, town marshall of Newcastle: Greiner agreed to rent him a house March, 1925, forgot it and rented it to some one else. At another time he changed his mind several times about renting, witness a garage. Testator complained much about his health.
+Barbara Miller lived in one of Greiner’s houses. He once called and said “When are you going to move?” and that he wanted her to get out, but did not say why, and then said he would raise the rent. He came again and on leaving turned back at the door and said “The yard is full of holes and dogs.” There were no holes or dogs in the yard. This was just a few days before Ms death. Some months before his death he came to a ranch where witness lived with a rooster and gave it to witness for his breakfast; he then went to sleep and when he woke he said “Somewhere in the world I have a sister, but I don’t know whether she is living or dead.” He had a sister. On cross-examination she says perhaps the reason of his notice to quit was that she had asked him to fix the hydrant.
+Terrelí, a bank cashier or clerk, cashed a certificate of deposit for Greiner not yet due. Greiner took the principal without interest. He seemed same as always, all right.
+John Miller testifies to dispute about pay for work.
+We can see nothing in this to justify a submission to the jury. The only thing even tending to show delusion is the remark about holes and dogs in the yard of. his tenant and that may have been a complaint of the way the yard Avas kept. Nothing purposeless or unintelligent is shown in his actions or speech. He acquired considerably more than the average fortune, took care of it successfully to the day of his death and now we are asked to say he did not knoAV enough to will it away. Swartz v. Miller, 70 Colo. 384, 201 Pac. 1116.
+Judgment affirmed.
+Mr. Chief Justice Burke, Mr. Justice Sheafor and Mr. Justice Whitfobd concur.
