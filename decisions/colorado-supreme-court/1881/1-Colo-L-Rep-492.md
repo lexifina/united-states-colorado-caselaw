@@ -1,0 +1,40 @@
+---
+court: "Colorado Supreme Court"
+decided: "1881"
+citations: ["1 Colo. L. Rep. 492"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EPLEY et al. v. SCHERER."]
+source_url: "https://static.case.law/colo-l-rep/1/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12135486
+cites_cases: ["1 Daly, 61", "2 Colo., 694", "38 Cal., 356"]
+---
+
+# Epley v. Scherer
+
+## Majority (Stone, J.)
+
+Stone, J.
+Action in the court below was brought by plaintiffs in error against the defendant in error to enforce a mechanics’ lien upon the premises of the defendant for building materials furnished by plaintiffs, as sub-contractors.
+The complaint was demurred to as not stating facts sufficient to show a cause of action. The demurrer was sustained by the county court, the plaintiffs elected to stand by their complaint, and assign here for error the judgment of the court upon sustaining the demurrer.
+Section 6 of the act of 1876, amendatory of the mechanics’ lien law, is as follows:
+“Nothing in this act, nor in the act to which this is amenda-tory, shall be so construed as to give a lien or liens to any subcontractor, journeyman laborer or other person, which singly exceeds, or in the aggregate exceeds, the amount due, or to become due, to the contractor from the owner of the property, upon the contract between them for the work of such contract upon such property.’’ General Laws, p. 595, Sec. 1669.
+The ground of the demurrer is, that the complaint fails to aver that “ at the time of the notice of lien, or at any time, there was any amount due, or to become due, from the owner of the property to the contractor upon the contract between them; ’ and it is contended by counsel for defendant that such indebtedness should appear in the complaint as a material averment going to the cause of action.
+Sincé no authorities were cited by counsel in this case, save the most general rules of common law pleadings, we have been at some pains to find authoritative rulings upon the precise question.
+Mr. Phillips, in his work on Mechanics’ Liens, Sec. 405, states the doctrine that the plaintiff sub-contractor is not bound to aver negatively that the owner, at the time he received notice of the plaintiff’s claim, had not paid the contractor the full amount of the contract price; and cites as authority the cases of Doughty v. Devlin, 1 E. D. Smith, (N. Y.,) 625; and Bailey v. Johnson, 1 Daly, (N. Y.,) 61.
+The first of these cases lays down the rule as stated by Mr. Phillips, but the other case holds directly the contrary. It will be found upon investigation, that the case of Doughty v. Devlin, is the first reported case of a large number of cases decided under the New York lien law of 1851, and the court in that case expressed some doubt as to the proper interpretation of some portions of the then new statute. At a subsequent term of the same court, in the case of Sullivan v. Brewster, 1 E. D. Smith, 681, it is held that a sub-contractor, equally with the original contractor, must, to entitle him to recover, show that a payment has become due from the owner upon the contract. The court in that case say:
+“The operation of the lien law is to transfer to the sub-contractor so much of the contractor’s claim against the owner as would be sufficient to pay the debt of the contractor to his subcontractor. It would be but reasonable to require the same amount of proof to recover against the owner for the same debt, whether the suit is brought by one or the other claimant. It is said that this would be requiring the plaintiff to prove a negative. This is not so. It is an affirmative proposition that there was a contract, and also that a payment has become due upon it.” Following this case, the court adhered to the same rule in numerous cases to be found in 2d, 3d and 4th E. D. Smith, and later on, in the case of Bailey v. Johnson, 1 Daly, 61, (referred to supra,) the court say: “To determine as to their correctness,, (the rulings of the court below,) it will be necessary to see what facts are required to be alleged and proved in an action brought by a sub-contractor, to enforce a lien under the law of 1851, referred to in this complaint. The numerous decisions which this court has made in respect to this law, show that to establish a lien under it, by a sub-contractor, there must appear:
+“First—That labor or materials have been furnished in the erection of the building in conformity with the contract made by the original contractor with the owner.
+“ Second—-That within * * * thereafter, a notice in writing, * * * claiming a lien for the work or materials thus furnished, has been filed with the county clerk.
+“ Third— That at the time of filing the notice of lien, or subsequently, a payment was due, or has since become due, from the owner to the contractor, upon the original contract.
+“Fourth—That the contracting owner had some interest in the property at the time the notice claiming the lien was filed.” And in support of the holding as to these requisites of the complaint and proof, the numerous previous decisions are cited.
+France & Rogers, attorneys for plaintiff in error.
+W. B. Mills, attorney for defendant in error.
+The New York statute of 1851, under which these decisions were made, differs but little, if any, in substance from the provision in our own law under which the case at bar arises. See 4 Abb. N. Y. Dig., Title Mech. Lien, Sec. 45.
+The same rule is substantially laid down in Illinois and in California. Thomas v. Industrial University, 71 Ills., 310; Henley v. Wadsworth, 38 Cal., 356.
+This rule is stated by Mr. Phillips, in section 63 of his work above referred to, with authorities cited, though in section 405, where he states the rule laid down in Doughty v. Devlin, no allusion is made to the conflict between that single case and the subsequent decisions.
+Our own court has inferentially held to the same rule in the case of Jensen et al. v. Brown, 2 Colo., 694, where, although this precise question was not raised, the court, per Brazee, J., say: “ The petition does not allege, the evidence does not show, nor does the referee find, that anything was due from the owner to the original contractor, at the time of service of notice of claim of lien.”
+Regarding this rule as correct upon principle and the authorities cited, we reach the conclusion that the demurrer was rightly sustained.
+Judgment affirmed.
